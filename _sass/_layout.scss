@@ -45,7 +45,7 @@ h4, h5,h6 {
   background-attachment: scroll;
   min-height: 300px;
   padding: 50px 0;
-  @media #{md-min} {
+  @media #{$md-min} {
     background-attachment: fixed;
   }
   h4 {
@@ -59,7 +59,7 @@ h4, h5,h6 {
   background-attachment: scroll;
   min-height: 300px;
   padding: 50px 0;
-  @media #{md-min} {
+  @media #{$md-min} {
     background-attachment: fixed;
   }
   h4 {
@@ -73,7 +73,7 @@ h4, h5,h6 {
   background-attachment: scroll;
   min-height: 300px;
   padding: 50px 0;
-  @media #{md-min} {
+  @media #{$md-min} {
     background-attachment: fixed;
   }
   h4 {
@@ -87,7 +87,7 @@ h4, h5,h6 {
   background-attachment: scroll;
   min-height: 300px;
   padding: 50px 0;
-  @media #{md-min} {
+  @media #{$md-min} {
     background-attachment: fixed;
   }
   h4 {
@@ -96,9 +96,9 @@ h4, h5,h6 {
   }
 }
 .big-header {
-  height: 500px;
+  min-height: 500px;
+  padding: 25px 0;
   .cta {
-    margin-top: 25px;
     h1{
       color: #ffffff;
       font-size: 8em;
