@@ -95,6 +95,20 @@ h4, h5,h6 {
     text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
   }
 }
+.blank-bg {
+  background: url("/images/plainbg.jpg") no-repeat center center;
+  background-size: cover;
+  background-attachment: scroll;
+  min-height: 300px;
+  padding: 50px 0;
+  @media #{$md-min} {
+    background-attachment: fixed;
+  }
+  h4 {
+    color: #ffffff;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+  }
+}
 .big-header {
   min-height: 500px;
   padding: 25px 0;
