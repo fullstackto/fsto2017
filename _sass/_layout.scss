@@ -13,9 +13,11 @@ $md-lg: "only screen (min-width: 992px) and (max-width:1199px)";
 
 $lg-min: "only screen and (min-width:1200px)";
 $lg-max: "only screen and (max-width:none)";
-$hand-font: 'La Belle Aurore', Georgia, cursive;
+$hand-font: 'Nothing You Could Do', Georgia, cursive;
 $title-font: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-
+section {
+  padding: 50px 0;
+}
 h1, h2, h3 {
   font-family: $title-font;
   margin: 0;
@@ -124,6 +126,27 @@ h4, h5,h6 {
     h2{
       color: #ffffff;
       font-size: 2em;
+      font-family: $title-font;
+      line-height: 1.5em;
+      text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+    }
+  }
+}
+.header {
+  min-height: 200px;
+  padding: 25px 0;
+  .cta {
+    h1{
+      color: #ffffff;
+      font-size: 4em;
+      font-family: $title-font;
+      margin: 0;
+      padding: 0;
+      text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+    }
+    h2{
+      color: #ffffff;
+      font-size: 1.2em;
       font-family: $title-font;
       line-height: 1.5em;
       text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
