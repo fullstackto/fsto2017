@@ -10,6 +10,6 @@ url: "http://2017.fsto.co" # the base hostname & protocol for your site
 twitter_username: fullstackto
 github_username:  fullstackto
 keywords: Front-End Design Conference, Full Stack, Full Stack Toronto, FSTO, Web Conference, Design, Development, Business, Marketing, Toronto, Ontario, Canada, Front-End, Front End, Back-end, back end, devops, dev ops, product development, project management, web development conference, web design conference, ux conference, devops conference, product conference, exhibit hall, workshop, toronto, webdev, web development, react.js, react native, amp, pwa, progressive web apps, accelerated mobile pages, elm, typescript, javascript, advanced, professional development, continuing education, web developer, full stack toronto, plus equal, plus equals, plus equal tech, plus equal workshop, +=, jsconf, cssconf, scala days, scala up north
-card: /images/card.jpg
+card: http://2017.fsto.co/images/card.jpg
 # Build settings
 markdown: kramdown
