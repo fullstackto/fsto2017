@@ -171,7 +171,7 @@ nav.navigation {
   .cta {
     h1{
       color: #ffffff;
-      font-size: 3em;
+      font-size: 2em;
       font-family: $title-font;
       margin: 0;
       padding: 0;
@@ -208,6 +208,24 @@ nav.navigation {
     background: #3498db;
     color: #ffffff;
     text-decoration: underline;
+  }
+}
+//Speakers
+.speaker {
+  .pull-left {
+    margin-right: 10px;
+  }
+  h4, h5 {
+    font-family: $title-font;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+  }
+  h4 {
+    font-size: 18px;
+  }
+  h5 {
+    font-size: 14px;
   }
 }
 //Sponsors
