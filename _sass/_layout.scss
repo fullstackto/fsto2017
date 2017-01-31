@@ -15,6 +15,10 @@ $lg-min: "only screen and (min-width:1200px)";
 $lg-max: "only screen and (max-width:none)";
 $hand-font: 'Nothing You Could Do', Georgia, cursive;
 $title-font: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+p {
+  line-height: 1.5em;
+  font-size: 15px;
+}
 section {
   padding: 50px 0;
 }
@@ -226,6 +230,12 @@ nav.navigation {
   }
   h5 {
     font-size: 14px;
+  }
+}
+.speaker-card {
+  p {
+    margin: 0;
+    padding: 0;
   }
 }
 //Sponsors
