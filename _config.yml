@@ -1,10 +1,10 @@
 # Site settings
-title: 2017 Full Stack Toronto Conference
+title: FullStack TO Conference
 email: comms@fsto.co
 description: > # this means to ignore newlines until "baseurl:"
   #fstoco is the conference for people who build the web,
-  covering all the layers; front-end, back-end, devops, ux, soft skills, and new tech.
-  #fstoco is October 23-24th, Register Today!
+  covering all layers; front-end, back-end, ux, and more.
+  Oct. 23-24th, Register Today!
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://2017.fsto.co" # the base hostname & protocol for your site
 twitter_username: fullstackto
