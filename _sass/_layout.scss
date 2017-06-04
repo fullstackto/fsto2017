@@ -276,3 +276,69 @@ nav.navigation {
     }
   }
 }
+//Schedule Cards
+.time {
+  padding-bottom: 26px;
+  &:after{
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+.card {
+  box-shadow: 0px 1px 5px rgba(0,0,0,0.5);
+  box-sizing: border-box;
+  padding: 10px;
+  height: 106px;
+  overflow: hidden;
+  p {
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+  }
+  &.full {
+    width: 100%;
+    border-left: 5px solid #8e44ad;
+  }
+  &.full-sm {
+    height: 36px;
+  }
+  &.fea, &.fec, &.bea, &.bec, &.new, &.iot, &.ux, &.ts {
+    width: 100%;
+    margin: 1.5% 0;
+  }
+  @media #{$md-min} {
+    &.fea, &.fec, &.bea, &.bec, &.new, &.iot, &.ux, &.ts {
+      width: 32.3%;
+      float: left;
+      margin: 0 0;
+      &:nth-child(3){
+        margin: 0 1.3%;
+      }
+    }
+  }
+  &.fea {
+    border-left: 5px solid #3498db;
+  }
+  &.fec{
+    border-left: 5px solid #2980b9;
+  }
+  &.bea{
+    border-left: 5px solid #2ecc71;
+  }
+  &.bec {
+    border-left: 5px solid #27ae60;
+  }
+  &.new{
+    border-left: 5px solid #FFB74D;
+  }
+  &.iot{
+    border-left: 5px solid #6D4C41;
+  }
+  &.ux{
+    border-left: 5px solid #c0392b;
+  }
+  &.ts {
+    border-left: 5px solid #8e44ad;
+  }
+}

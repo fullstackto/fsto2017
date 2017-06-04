@@ -1,0 +1,558 @@
+{
+  "23" : {
+    "8:30-9:30" : [
+      {
+        "title": "Registration",
+        "speaker": "",
+        "image" : "",
+        "about" : "Show up with your ID to pick up your badge.",
+        "bio" : "",
+        "room" : "",
+        "klass": "full-sm"
+      }
+    ],
+    "9:30-10:15" : [
+      {
+        "key" : "cassandra",
+        "title": "Keynote: Health: The Most Important Dev Tool",
+        "speaker": "Cassandra Faris",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206ABCD",
+        "klass": "full"
+      }
+    ],
+    "10:15-10:30" : [
+      {
+        "title": "Break",
+        "speaker": "",
+        "image" : "",
+        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
+        "bio" : "",
+        "room" : "200AB",
+        "klass" : "full-sm"
+      }
+    ],
+    "10:30-11:15" : [
+      {
+        "key" : "",
+        "title": "TBA",
+        "speaker": "",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206AB",
+        "klass": "fec"
+      },
+      {
+        "key" : "jonah",
+        "title": "Monitoring and Instrumentation Strategies, Tips &amp; Best Practices",
+        "speaker": "Jonah Kowall",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206CD",
+        "klass": "bea"
+      },
+      {
+        "key" : "hira",
+        "title": "UX of Voice Interfaces",
+        "speaker": "Hira Javed",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "200C",
+        "klass": "ux"
+      }
+    ],
+    "11:15-11:30" : [
+      {
+        "title": "Break",
+        "speaker": "",
+        "image" : "",
+        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
+        "bio" : "",
+        "room" : "200AB",
+        "klass": "full-sm"
+      }
+    ],
+    "11:30-12:15" : [
+      {
+        "key" : "alex",
+        "title": "Organizing Applications In The React Ecosystem",
+        "speaker": "Alex Wilmer",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206AB",
+        "klass": "fea"
+      },
+      {
+        "key" : "jane",
+        "title": "Good Code: What, Why, and How",
+        "speaker": "Jane Prusakova",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206CD",
+        "klass": "bec"
+      },
+      {
+        "key" : "tirell",
+        "title": "Jack of all trades, Development with Vuejs",
+        "speaker": "Tirell Mckinnon",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "200C",
+        "klass": "new"
+      }
+    ],
+    "12:15-1:00" : [
+      {
+        "title": "Lunch",
+        "speaker": "",
+        "image" : "",
+        "about" : "Lunch will be provided, those who registered with dietary restrictions will have their meal waiting at the registration desk",
+        "bio" : "",
+        "room" : "",
+        "klass" : "full-sm"
+      }
+    ],
+    "1:00-1:45" : [
+      {
+        "key" : "jason",
+        "title": "React Native Ra11y",
+        "speaker": "Jason Matthews",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206AB",
+        "klass": "fec"
+      },
+      {
+        "key" : "sam",
+        "title": "One Data Pipeline to Rule Them All",
+        "speaker": "Sam Kitajima-Kimbrel",
+        "role": "Engineering Manager at Twillio",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206CD",
+        "klass": "bea"
+      },
+      {
+        "key" : "",
+        "title": "Submit a UX Talk",
+        "speaker": "",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "200C",
+        "klass": "ux"
+      }
+    ],
+    "1:45-2:00" : [
+      {
+        "title": "Break",
+        "speaker": "",
+        "image" : "",
+        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
+        "bio" : "",
+        "room" : "200AB",
+        "klass": "full-sm"
+      }
+    ],
+    "2:00-2:45" : [
+      {
+        "key" : "ruy",
+        "title": "Node.js server side rendering in the Age of APIs",
+        "speaker": "Ruy Adorno",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206AB",
+        "klass": "fea"
+      },
+      {
+        "key" : "",
+        "title": "Submit a Server Side Talk",
+        "speaker": "",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206CD",
+        "klass": "bec"
+      },
+      {
+        "key" : "",
+        "title": "Submit an IoT Talk",
+        "speaker": "",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "200C",
+        "klass": "iot"
+      }
+    ],
+    "2:45-3:00" : [
+      {
+        "title": "Break",
+        "speaker": "",
+        "image" : "",
+        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
+        "bio" : "",
+        "room" : "200AB",
+        "klass": "full-sm"
+      }
+    ],
+    "3:00-3:45" : [
+      {
+        "key" : "june",
+        "title": "What Rocky Horror taught me about Shadow DOM and CSS",
+        "speaker": "Juniper Belmont",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206AB",
+        "klass": "fec"
+      },
+      {
+        "key" : "yaroslav",
+        "title": "Building Stateful Microservices With Akka",
+        "speaker": "Yaroslav Tkachenko",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206CD",
+        "klass": "bea"
+      },
+      {
+        "key" : "morgan",
+        "title": "Help! Work Is Killing My Creativity",
+        "speaker": "Morgan Zion",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "200C",
+        "klass": "ux"
+      }
+    ],
+    "3:45-4:00" : [
+      {
+        "title": "Break",
+        "speaker": "",
+        "image" : "",
+        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
+        "bio" : "",
+        "room" : "200AB",
+        "klass": "full-sm"
+      }
+    ],
+    "4:00-4:45" : [
+      {
+        "key" : "ben",
+        "title": "Isomorphic React sans Node??",
+        "speaker": "Ben Ilegbodu",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206AB",
+        "klass": "fea"
+      },
+      {
+        "key" : "",
+        "title": "Submit a Server Side Talk",
+        "speaker": "",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206CD",
+        "klass": "bec"
+      },
+      {
+        "key" : "",
+        "title": "TBA",
+        "speaker": "",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "200C",
+        "klass": "ts"
+      }
+    ]
+  },
+  "24" : {
+    "9:30-10:15" : [
+      {
+        "key" : "luke",
+        "title": "Fantastic Types and Where To Use Them",
+        "speaker": "Luke Westby",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206AB",
+        "klass": "fec"
+      },
+      {
+        "key" : "",
+        "title": "Submit a Server Side Talk",
+        "speaker": "",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206CD",
+        "klass": "bea"
+      },
+      {
+        "key" : "ivana",
+        "title": "Remote working: Swings &amp; Roundabouts",
+        "speaker": "Ivana McConnell",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "200C",
+        "klass": "ts"
+      }
+    ],
+    "10:15-10:30" : [
+      {
+        "title": "Break",
+        "speaker": "",
+        "image" : "",
+        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
+        "bio" : "",
+        "room" : "200AB",
+        "klass" : "full-sm"
+      }
+    ],
+    "10:30-11:15" : [
+      {
+        "key" : "dana",
+        "title": "Oh Behave!: Behavior-Driven Development with Cucumber",
+        "speaker": "Dana Scheider",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206AB",
+        "klass": "fea"
+      },
+      {
+        "key" : "",
+        "title": "Submit a Server Side Talk",
+        "speaker": "",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206CD",
+        "klass": "bec"
+      },
+      {
+        "key" : "matt",
+        "title": "Designing Everyday Privacy and Security",
+        "speaker": "Matthew Davey",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "200C",
+        "klass": "ux"
+      }
+    ],
+    "11:15-11:30" : [
+      {
+        "title": "Break",
+        "speaker": "",
+        "image" : "",
+        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
+        "bio" : "",
+        "room" : "200AB",
+        "klass": "full-sm"
+      }
+    ],
+    "11:30-12:15" : [
+      {
+        "key" : "houssein",
+        "title": "Progressive Web Apps",
+        "speaker": "Houssein Djirdeh",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206AB",
+        "klass": "fec"
+      },
+      {
+        "key" : "chris",
+        "title": "Building a Better API with JSON:API",
+        "speaker": "Chris Guzman",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206CD",
+        "klass": "bea"
+      },
+      {
+        "key" : "",
+        "title": "TBA",
+        "speaker": "",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "200C",
+        "klass": "iot"
+      }
+    ],
+    "12:15-1:00" : [
+      {
+        "title": "Lunch",
+        "speaker": "",
+        "image" : "",
+        "about" : "Lunch will be provided, those who registered with dietary restrictions will have their meal waiting at the registration desk",
+        "bio" : "",
+        "room" : "",
+        "klass" : "full-sm"
+      }
+    ],
+    "1:00-1:45" : [
+      {
+        "key" : "",
+        "title": "TBA",
+        "speaker": "",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206AB",
+        "klass": "fea"
+      },
+      {
+        "key" : "",
+        "title": "TBA",
+        "speaker": "",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206CD",
+        "klass": "bec"
+      },
+      {
+        "key" : "arushi",
+        "title": "Blockchain - Why and how",
+        "speaker": "Arushi Srivastava",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "200C",
+        "klass": "new"
+      }
+    ],
+    "1:45-2:00" : [
+      {
+        "title": "Break",
+        "speaker": "",
+        "image" : "",
+        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
+        "bio" : "",
+        "room" : "200AB",
+        "klass": "full-sm"
+      }
+    ],
+    "2:00-2:45" : [
+      {
+        "key" : "henri",
+        "title": "In DevTools We Trust",
+        "speaker": "Henri Helvetica",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206AB",
+        "klass": "fec"
+      },
+      {
+        "key" : "",
+        "title": "Submit a Server Side Talk",
+        "speaker": "",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206CD",
+        "klass": "bec"
+      },
+      {
+        "key" : "ole",
+        "title": "Get your fancy pants on with Elixir",
+        "speaker": "Ole Michaelis",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "200C",
+        "klass": "new"
+      }
+    ],
+    "2:45-3:00" : [
+      {
+        "title": "Break",
+        "speaker": "",
+        "image" : "",
+        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
+        "bio" : "",
+        "room" : "200AB",
+        "klass": "full-sm"
+      }
+    ],
+    "3:00-3:45" : [
+      {
+        "key" : "jana",
+        "title": "Fighting JavaScript fatigue? Try JavaScript therapy!",
+        "speaker": "",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206AB",
+        "klass": "fea"
+      },
+      {
+        "key" : "kristina",
+        "title": "Tackling Technical Debt",
+        "speaker": "Jana Beck",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206CD",
+        "klass": "bea"
+      },
+      {
+        "key" : "",
+        "title": "Submit a UX Talk",
+        "speaker": "",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "200C",
+        "klass": "ux"
+      }
+    ],
+    "3:45-4:00" : [
+      {
+        "title": "Break",
+        "speaker": "",
+        "image" : "",
+        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
+        "bio" : "",
+        "room" : "200AB",
+        "klass": "full-sm"
+      }
+    ],
+    "4:00-4:45" : [
+      {
+        "key" : "marissa",
+        "title": "Keynote: Empowering through mentoring",
+        "speaker": "Marissa Levy Lerer",
+        "image" : "",
+        "about" : "",
+        "bio" : "",
+        "room" : "206ABCD",
+        "klass": "full"
+      }
+    ]
+  }
+}
