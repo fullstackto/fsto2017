@@ -11,199 +11,26 @@ title: Session Abstracts
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-6 speaker" id="jonah">
-          <img src="/images/speakers/jonah.jpg" alt="Jonah Photo" width="65" class="pull-left" />
-          <h4>Monitoring and Instrumentation Strategies Tips &amp; Best Practices</h4>
-          <h5>by <a href="/speakers#jonah">Jonah Kowall</a></h5>
-          <p>Monitoring is complicated, and in most organizations consists of far too many tools owned by too many teams.  Fixing monitoring issues requires people, process, and technology. Hear common issues seen in the real world including what should be monitored or collected from a technology and a business perspective.</p>
-          <p>Investigate what instrumentation is most scalable and effective across languages, commonly used APIs, and possibilities for capturing data from common languages like Java, .NET, and PHP. Cover browser and mobile instrumentation techniques. Get tips on which APIs to use, what open source tools and frameworks can be leveraged, and how to coordinate and communicate requirements across your organization.</p>
-          <p>Key takeaways:
-            <ul>
-              <li>What is instrumentation, and what to instrument, collect, and store</li>
-              <li>How this can be accomplished on common software stacks</li>
-              <li>How to work with application owners to collect business data</li>
-              <li>How correlation works in custom open source or packaged monitoring tools</li>
-            </ul>
-          </p>
-      </div>
-      <div class="col-sm-6 speaker" id="sam">
-        <img src="/images/speakers/sam.jpg" alt="Sam Photo" width="65" class="pull-left" />
-        <h4>One Data Pipeline to Rule Them All</h4>
-        <h5>by <a href="/speakers#sam">Sam Kitajima-Kimbrel</a></h5>
-          <p>There are a myriad of data storage systems available for every use case imaginable, but letting application teams choose storage engines independently can lead to duplicated efforts and reinventing the wheel. This talk will explore how to build a reusable data pipeline based on Kafka to support multiple applications, datasets, and use cases including archival, warehousing and analytics, stream and batch processing, and low-latency "hot" storage.</p>
-          <p>This talk is for application, infrastructure, or data developers and anyone interested in using event buses for data ingestion and processing/storage. A basic familiarity with different types of data storage systems and the concept of extracting data from one system and loading it into another (ETL) would help but is not required.</p>
-          <p>Attendees should expect to leave with a basic familiarity of the concepts of event sourcing, data buses, tiered storage, and be able to reason better about their data systems and how they're connected.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-6 speaker" id="luke">
-        <img src="/images/speakers/luke.jpg" alt="Luke Photo" width="65" class="pull-left" />
-        <h4>Fantastic Types and Where To Use Them</h4>
-        <h5>by <a href="/speakers#luke">Luke Westby</a></h5>
-          <p>You can be a functional programmer! And if you're building JavaScript apps, there's a good chance you already are. FP in languages like Haskell is about finding common ground with principles in math that let us talk about how all our different and diverse code works using a universal (isomorphic?) vocabulary. And since JavaScript comes with so much flexibility we can do the same thing on the client if only we take some time to learn the patterns. Join me for this talk and I'll teach you what things like Functors and Monads are, when to use them, and what you get as a reward for doing so.</p>
-      </div>
-      <div class="col-sm-6 speaker" id="yaroslav">
-        <img src="/images/speakers/yaroslav.jpg" alt="Yaroslav Photo" width="65" class="pull-left" />
-        <h4>Building Stateful Microservices With Akka</h4>
-        <h5>by <a href="/speakers#yaroslav">Yaroslav Tkachenko</a></h5>
-          <p>It seems like all the dust about microservices has finally settled. We know how to design, develop and operate them. Although most of the microservices are stateless - they delegate things like persistence and consistency to a database or external storage. But sometimes you benefit when you keep the state inside the application.</p>
-          <p>In this presentation I’m going to talk about why you want to build stateful microservices and design choices you make. I’ll use Akka framework and explain tools like Akka Clustering and Akka Persistence in depth and show a few practical examples.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-6 speaker" id="ruy">
-        <img src="/images/speakers/ruy.jpg" alt="Ruy Photo" width="65" class="pull-left" />
-        <h4>Node.js server side render in the Age of APIs</h4>
-        <h5>by <a href="/speakers#ruy">Ruy Adorno</a></h5>
-          <p>With the increasing popularity of Universal JavaScript and microservices, more and more front-end developers are taking ownership of their server-side render using Node.js.</p>
-          <p>In this talk we'll see how leveraging APIs in both server and client side is giving birth to new libraries and frameworks and what is the role of a front end developer in this post-full stack world.</p>
-      </div>
-      <div class="col-sm-6 speaker" id="matt">
-        <img src="/images/speakers/matt.jpg" alt="Matt Photo" width="65" class="pull-left" />
-        <h4>Designing Everyday Privacy and Security</h4>
-        <h5>by <a href="/speakers#matt">Matthew Davey</a></h5>
-          <p>Two factor shouldn't be just for security experts and encryption shouldn't be presented as defensive. I will look at security from the position of a utility for everyone. Framing it as friendly, important and placing importance on your personal data. Security and Privacy are complex ideas important to everyone. Learn how to lower the bar to entry using language, layout and levity.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-6 speaker" id="ole">
-        <img src="/images/speakers/ole.jpg" alt="Ole Photo" width="65" class="pull-left" />
-        <h4>Get your fancy pants on with Elixir</h4>
-        <h5>by <a href="/speakers#ole">Ole Michaelis</a></h5>
-          <p>With Elixir you get all the power of Erlang and it’s hardened frameworks and libraries like OTP and cowboy with a Ruby-esque syntax. When WhatsApp was sold to Facebook, everyone was talking about Erlang. Everyone wanted to know how it was possible to build such a resilient and highly scalable system. With hot code swapping, the BEAM Machine allows zero downtime deployments and gives you highly available systems.</p>
-      </div>
-      <div class="col-sm-6 speaker" id="alex">
-        <img src="/images/speakers/alex.jpg" alt="Alex Photo" width="65" class="pull-left" />
-        <h4>Organizing Applications In The React Ecosystem</h4>
-        <h5>by <a href="/speakers#alex">Alex Wilmer</a></h5>
-          <p>Since the release and rise of React, client side architecture has become increasingly modular and there have been dozens of popular, but not necessarily compatible, strategies for organizing applications. There exists a plethora of boilerplates and articles on the subject and it's far too early declare a winner.</p>
-
-          <p>This talk will examine the top methodologies over the past two years and see how they have evolved. The examination will consist of applying these methods to minimum viable examples in a digestible form to illustrate and magnify the advantages and pitfalls at different levels of scale.</p>
-
-          <p>In the end we will look at how the Ontario Institute of Cancer Research is organizing several open source applications to benefit from all the lessons learned along the way. </p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-6 speaker" id="ben">
-        <img src="/images/speakers/ben.jpg" alt="Ben Photo" width="65" class="pull-left" />
-        <h4>Isomorphic React sans Node??</h4>
-        <h5>by <a href="/speakers#ben">Ben Ilegbodu</a></h5>
-          <p>React is a JavaScript library for building user interfaces that has taken the web development industry by storm. Its declarative syntax and DOM abstraction for components not only make client-side development simple, but also enables server-side rendering of those same components, which enables improved SEO and initial browser load time. But how do you render JavaScript React components server-side if your backend doesn’t run on Node? Learn how Eventbrite successfully integrated React with their Python/Django backend so that you can do the same in yours.</p>
-      </div>
-      <div class="col-sm-6 speaker" id="cassandra">
-        <img src="/images/speakers/cassandra.jpg" alt="Cassandra Photo" width="65" class="pull-left" />
-        <h4>Health: The Most Important Dev Tool</h4>
-        <h5>by <a href="/speakers#cassandra">Cassandra Faris</a></h5>
-          <p>Working in the tech industry often involves spending long hours sitting down, staring at a screen, consuming copious amounts of pizza and caffeine. The work is mentally demanding and can be stressful. In the rush to get everything done, it can be easy to neglect our health. But a healthy body and mind are necessary for effective performance. Based on HR training, research, and personal experience, this session provides realistic suggestions for managing your well-being at work. It covers the connection between physical and mental health, as well as how to discuss these topics with your employer. You’ll leave with a better idea of how to take care of yourself and be a happier, healthier, more productive person.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-6 speaker" id="ivana">
-        <img src="/images/speakers/ivana.jpg" alt="Ivana Photo" width="65" class="pull-left" />
-        <h4>Remote working: Swings &amp; Roundabouts</h4>
-        <h5>by <a href="/speakers#ivana">Ivana McConnell</a></h5>
-          <p>Remote teams, when built right, are a wonderful unicorn of trust, freedom, and creative productivity. However, in pursuing this unicorn, it’s difficult to remember that working remotely is incredibly difficult— professionally, psychologically, and personally. It affects everyone differently— developers, designers, managers, and everyone in between. In this talk we'll dispel some myths around remote teams and collaboration, torture the Sword of Damocles metaphor, and share some learnings around making those remote teams work, both professionally and interpersonally. Hopefully, we'll achieve vaunted unicorn status.</p>
-      </div>
-      <div class="col-sm-6 speaker" id="tirell">
-        <img src="/images/speakers/tirell.jpg" alt="Tirell Photo" width="65" class="pull-left" />
-        <h4>Jack of all trades, Development with Vuejs</h4>
-        <h5>by <a href="/speakers#tirell">Tirell Mckinnon</a></h5>
-          <p>Vuejs is considered component driven, extensible, approachable, and performant view library. Whether you’re a web dev without the frameworks or have been deep in development with Angular, Ember, or React, Vue has a something for you.</p>
-
-          <p>In this presentation, we will go over the Vue fundamentals, dive into state management, data fetching with Vue, and then wrap up with building your application for production. We will have a mix of defining what Vue is as well as an actual application demonstrating how the different pieces fit together in the real world. Vue has great documentation and the library is fast by default. The choices we have available to build user interfaces today are vast, exploration is time consuming, but I believe it’s worth the effort to get started building and delivering products using Vue.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-6 speaker" id="chris">
-        <img src="/images/speakers/chris.jpg" alt="Chris Photo" width="65" class="pull-left" />
-        <h4>Building a Better API with JSON:API</h4>
-        <h5>by <a href="/speakers#chris">Chris Guzman</a></h5>
-          <p>Enough with the bike shedding conversations about your API’s structure. If you’ve implemented API endpoints or consumed APIs it may bug you that every API seems to be different. What if there was a universal standard that made sense?</p>
-
-          <p>Enter JSON:API, a standard for creating self explaining JSON APIs introduced by Yehuda Katz and Steve Klabnik that can increase productivity and take advantage of generalized tooling. Clients built around JSON:API can efficiently cache responses, sometimes eliminating network requests entirely.</p>
-      </div>
-      <div class="col-sm-6 speaker" id="june">
-        <img src="/images/speakers/june.jpg" alt="June Photo" width="65" class="pull-left" />
-        <h4>What Rocky Horror taught me about Shadow DOM and CSS</h4>
-        <h5>by <a href="/speakers#june">Juniper Belmont</a></h5>
-          <p>When I was fifteen I put on an excessive amount of makeup, punk clothes, and bravado to lip sync a song about a sultry space alien intent on making the world fabulous. Then I took off the costume and resumed being a regular Star Wars and computer science nerd. Shadow DOM, too, is about setting up a façade to contain style and content that doesn’t leak out into the rest of the world.</p>
-
-          <p>My talk will show how you can use Shadow DOM today to turn hairy HTML and CSS into scoped pieces that can be styled and composed naturally. I’ll talk about best practices for styling and scoping individual components as well as theming with Shadow DOM. All this while talking about my connection to an irreverent B-movie.</p>
-      </div>
-      <div class="col-sm-6 speaker" id="dana">
-        <img src="/images/speakers/dana.jpg" alt="Dana Photo" width="65" class="pull-left" />
-        <h4>Oh Behave!: Behavior-Driven Development with Cucumber</h4>
-        <h5>by <a href="/speakers#dana">Dana Scheider</a></h5>
-          <p>Cucumber is a powerful and versatile tool for collaboration and testing, but many developers don’t know how best to incorporate it into their workflows. In this talk, Dana Scheider of the Cucumber Core Team will show you how to supercharge your products and processes with Cucumber.</p>
-      </div>
-      <div class="col-sm-6 speaker" id="jason">
-        <img src="/images/speakers/jason.jpg" alt="Jason Photo" width="65" class="pull-left" />
-        <h4>React Native Ra11y</h4>
-        <h5>by <a href="/speakers#jason">Jason Matthews</a></h5>
-          <p>The React Native platform has taken the world by storm. Big names like Uber, Instagram, Tesla and Facebook are leveraging the platform to accelerate their development process while maintaining high quality.  There is generally a strong correlation between great quality apps and the level of accessibly features built in. We’ll go through the general methods of making your React Native apps accessible and explore some of the gotchas in this endeavour.</p>
-      </div>
-      <div class="col-sm-6 speaker" id="jana">
-        <img src="/images/speakers/jana.jpg" alt="Jana Photo" width="65" class="pull-left" />
-        <h4>Fighting JavaScript fatigue? Try JavaScript therapy!</h4>
-        <h5>by <a href="/speakers#jana">Jana Beck</a></h5>
-          <p>JavaScript got generator functions in ES2015, but perhaps—unlike other ES2015 features like `const`, computed property names, and arrow functions—you haven’t used them yet. The disruption of the “normal” control flow that occurs with generators can feel a bit like turning your brain inside-out, but generators are definitely useful. For example, you must use them with redux-saga, a popular add-on for performing side effects in apps that use Redux for state management.</p>
-
-          <p>In this talk, we’ll seek to understand generators through the metaphor of conversation, modeling the relationship between a generator function and its calling context as a turn-taking relationship, just like a (good) conversation. After starting with a simple gibberish bot that responds to user input, we’ll expand to a generator implementation of Eliza (everyone’s favorite therapist chat bot), so that JavaScript can provide not just our livelihood but our therapy too.</p>
-      </div>
-      <div class="col-sm-6 speaker" id="marissa">
-        <img src="/images/speakers/marissa.jpg" alt="Marissa Photo" width="65" class="pull-left" />
-        <h4>Empowering through mentoring</h4>
-        <h5>by <a href="/speakers#marissa">Marissa Levy-Lerer</a></h5>
-          <p>TBA.</p>
-      </div>
-      <div class="col-sm-6 speaker" id="hira">
-        <img src="/images/speakers/hira.jpg" alt="Hira Photo" width="65" class="pull-left" />
-        <h4>UX of Voice Interfaces</h4>
-        <h5>by <a href="/speakers#hira">Hira Javed</a></h5>
-          <p>TBA.</p>
-      </div>
-      <div class="col-sm-6 speaker" id="kristina">
-        <img src="/images/speakers/kristina.jpg" alt="Kristina Photo" width="65" class="pull-left" />
-        <h4>Tackling Technical Debt: Getting Started with Continuous Integration Testing</h4>
-        <h5>by <a href="/speakers#kristina">Kristina Balaam</a></h5>
-          <p>As developers, we understand the importance of writing scalable, quality code. Testing provides a safeguard against much of the technical debt we would otherwise accumulate with faulty logic and missed use cases. However, implementing tests also tends to be lower priority for many teams. It's important to recognize why technical debt can be so crippling to a team's productivity, and how continuous integration testing and code coverage applications can help the lifespan of a project _and_ the sanity of a team. We'll look at some hard data to back up this assertion and walk through a simple open source project integration with Codecov and Travis CI. Both are easily accessible, multi-language applications that offer teams continuous integration testing and status updates right in a Github repo.</p>
-      </div>
-      <div class="col-sm-6 speaker" id="houssein">
-        <img src="/images/speakers/houssein.jpg" alt="Houssein Photo" width="65" class="pull-left" />
-        <h4>Progressive Web Apps</h4>
-        <h5>by <a href="/speakers#houssein">Houssein Djirdeh</a></h5>
-          <p>What exactly are Progressive Web Apps and how can we build one? Can we improve apps built with React or any other library/framework without adding too much complexity? When was the last time you were about to install a mobile app but decided not to? Maybe you felt like you didn’t want to go through the hassle of installing it, or maybe you just didn’t want use to up any more memory. Whatever the reason, almost every single mobile user has experienced this at some point.</p>
-
-            <p>However, most people feel a lot less restricted to open up a browser and just type in to the address bar. The convenience, security and simplicity of just typing a URL into an address bar is a powerful advantage of the web, and Progressive Web Apps (PWA) combine this with the feel of native applications.</p>
-
-            <p>In short, PWAs are applications that use modern web capabilities to provide a user experience similar to that of mobile and native apps. This presentation will go over how you can add a number of progressive aspects to your application including faster load times, offline support and the ability to install to your mobile home screen.</p>
-      </div>
-      <div class="col-sm-6 speaker" id="henri">
-        <img src="/images/speakers/henri.jpg" alt="Henri Photo" width="65" class="pull-left" />
-        <h4>In DevTools We Trust: Employing DevTools For Deploying Performant Apps</h4>
-        <h5>by <a href="/speakers#henri">Henri Helvetica</a></h5>
-        <p>The modern developer workflow often starts with authoring a simple SPA, followed by a live push, but often concludes with a bottleneck discovery. With near certainty, the application was not tested, despite the availability of a testing tool a keystroke away: option-command-I bka Developer Tools.
-        <p>Devtools should be as quotidian as a morning cup of coffee. Once a simple complement to the browser, it’s now a powerful application capable of providing immediate and revealing data of your applications’s performance.</p>
-        <p>‘In DevTools We Trust’ will equip developers with the capacity to correctly conduct application analysis, and provide solutions in the dissolution of performance bottlenecks.</p>
-      </div>
-      <div class="col-sm-6 speaker" id="arushi">
-        <img src="/images/speakers/arushi.jpg" alt="Arushi Photo" width="65" class="pull-left" />
-        <h4>Blockchain - Why and how to start your technical journey on this promising tech trend</h4>
-        <h5>by <a href="/speakers#arushi">Arushi Srivastava</a></h5>
-        <p>This major technology trend has already started software architecture for financial services and insurance industries and is now making its way to other industries like healthcare, supply chain and government. In the next 2-3 years you will have the responsibility of understanding, implementing an/or using Blockchain, just the way you do it for cloud today. This talk will introduce the audience to the Blockchain architecture and we will dive deeper into the specifics of its utility, implementation and technical skills requirement. The talk will end with giving the audience specific steps on how to start their Blockchain journey and if already started then how to overcome the roadblocks.</p>
-      </div>
-      <div class="col-sm-6 speaker" id="jane">
-        <img src="/images/speakers/jane.jpg" alt="Jane Photo" width="65" class="pull-left" />
-        <h4>Good Code: What, Why, and How</h4>
-        <h5>by <a href="/speakers#jane">Jane Prusakova</a></h5>
-        <p>Many programmers are dedicated, or even obsessed, with writing “good” code. Often we follow certain patterns and practices because we believe they are the best solution for the problem, or because the “experts” tell us to. In this session, we will discuss what good code really is and what benefits it brings.</p>
-      </div>
-      <div class="col-sm-6 speaker" id="morgan">
-        <img src="/images/speakers/morgan.jpg" alt="Morgan Photo" width="65" class="pull-left" />
-        <h4>Help! Work Is Killing My Creativity: Simple Steps to Revive Your Creative Vibe While at Work</h4>
-        <h5>by <a href="/speakers#morgan">Morgan Zion</a></h5>
-        <p>Did you expect your job was going to be more creative? Have you felt like you have become a rusty version of your old artistic self? Do you feel like quitting your job to find a more “creative” one? Step one, DO NOT panic or trade your mouse for a paint brush and black bourret.</p>
-      </div>
+    {% for times in site.data.fsto.23 %}
+      {% for session in times[1] %}
+        <div class="speaker" id="{{session.key}}">
+            <img src="/images/speakers/{{session.key}}.jpg" alt="{{session.key}} Photo" width="65" class="pull-left" />
+            <h4>{{session.title}}</h4>
+            <h5>by <a href="/speakers#{{session.key}}">{{session.speaker}}</a></h5>
+            {{session.about}}
+        </div>
+      {% endfor %}
+    {% endfor %}
+    {% for times in site.data.fsto.24 %}
+      {% for session in times[1] %}
+        <div class="speaker" id="{{session.key}}">
+            <img src="/images/speakers/{{session.key}}.jpg" alt="{{session.key}} Photo" width="65" class="pull-left" />
+            <h4>{{session.title}}</h4>
+            <h5>by <a href="/speakers#{{session.key}}">{{session.speaker}}</a></h5>
+            {{session.about}}
+        </div>
+      {% endfor %}
+    {% endfor %}
     </div>
   </article>
 </section>

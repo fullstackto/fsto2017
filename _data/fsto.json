@@ -1,37 +1,16 @@
 {
   "23" : {
-    "8:30-9:30" : [
-      {
-        "title": "Registration",
-        "speaker": "",
-        "image" : "",
-        "about" : "Show up with your ID to pick up your badge.",
-        "bio" : "",
-        "room" : "",
-        "klass": "full-sm"
-      }
-    ],
     "9:30-10:15" : [
       {
         "key" : "cassandra",
         "title": "Keynote: Health: The Most Important Dev Tool",
         "speaker": "Cassandra Faris",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "Mental Health, Personal Health, Career Development",
+        "about" : "<p>Working in the tech industry often involves spending long hours sitting down, staring at a screen, consuming copious amounts of pizza and caffeine. The work is mentally demanding and can be stressful. In the rush to get everything done, it can be easy to neglect our health. But a healthy body and mind are necessary for effective performance. You’ll leave with a better idea of how to take care of yourself and be a happier, healthier, more productive person.</p>",
+        "bio" : "<p>Cassandra Faris is the Director of Talent Management at Improving Columbus, a software development consulting and training company. She is passionate about growing the tech community and its people, regularly attending, speaking at, and helping organize conferences and events. She is President of the Microsoft-focused Dog Food Conference and Marketing Lead for CloudDevelop. She has an MBA in Organizational Leadership, and is an avid tabletop gamer, runner, and soccer fan who travels as much as possible.</p>",
+        "role": "Director of Talent Management at Improving Columbus",
         "room" : "206ABCD",
         "klass": "full"
-      }
-    ],
-    "10:15-10:30" : [
-      {
-        "title": "Break",
-        "speaker": "",
-        "image" : "",
-        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
-        "bio" : "",
-        "room" : "200AB",
-        "klass" : "full-sm"
       }
     ],
     "10:30-11:15" : [
@@ -39,7 +18,7 @@
         "key" : "",
         "title": "TBA",
         "speaker": "",
-        "image" : "",
+        "keywords" : "",
         "about" : "",
         "bio" : "",
         "room" : "206AB",
@@ -47,11 +26,13 @@
       },
       {
         "key" : "jonah",
-        "title": "Monitoring and Instrumentation Strategies, Tips &amp; Best Practices",
+        "title": "Monitoring and Instrumentation Best Practices",
         "speaker": "Jonah Kowall",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "Performance, Monitoring, Big Data",
+        "about" : "<p>Monitoring is complicated, and in most organizations consists of far too many tools owned by too many teams.  Fixing monitoring issues requires people, process, and technology. Hear common issues seen in the real world including what should be monitored or collected from a technology and a business perspective. Investigate what instrumentation is most scalable and effective across languages, commonly used APIs, and possibilities for capturing data from common languages.</p>",
+        "bio" : "<p>Jonah Kowall trained in computer science and co-founded one of the first content filtering companies in the late 1990’s. Jonah became a security expert committing code to both the FreeBSD project and helped build the first wireless cracking algorithms.</p>
+
+        <p>In 2011 Jonah changed careers, moving to Gartner to focus on availability and performance monitoring and IT operations management (ITOM). Speaking and writing research globally for IT leaders and CIOs. Jonah led Gartner's influential application performance monitoring (APM) and created the network performance monitoring and diagnostics (NPMD) magic quadrants. In 2015 Jonah joined AppDynamics to drive the company’s product strategy, roadmap and vision, while developing entry into new markets and providing valuable technology and business insights.</p>",
         "room" : "206CD",
         "klass": "bea"
       },
@@ -59,32 +40,23 @@
         "key" : "hira",
         "title": "UX of Voice Interfaces",
         "speaker": "Hira Javed",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "UX, Voice",
+        "about" : "TBA",
+        "bio" : "<p>Hira is a Usability Specialist, she conducts UX research to inform product decisions from conception to post-launch. Hira has also been teaching at the University of Waterloo since 2012, where she created the curriculum for a required UX Design course as part of the Global Business and Digital Arts program. Her research interests includes digital memory, online communities, ephemeral messaging and gamification.</p>",
+        "role" : "UX at ScotiaBank",
         "room" : "200C",
         "klass": "ux"
-      }
-    ],
-    "11:15-11:30" : [
-      {
-        "title": "Break",
-        "speaker": "",
-        "image" : "",
-        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
-        "bio" : "",
-        "room" : "200AB",
-        "klass": "full-sm"
       }
     ],
     "11:30-12:15" : [
       {
         "key" : "alex",
-        "title": "Organizing Applications In The React Ecosystem",
+        "title": "Organizing React Applications",
         "speaker": "Alex Wilmer",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "React, Architecture, Code Patterns",
+        "about" : "<p>Since the release and rise of React, client side architecture has become increasingly modular and there have been dozens of popular, but not necessarily compatible, strategies for organizing applications. There exists a plethora of boilerplates and articles on the subject and it's far too early declare a winner. This talk will examine the top methodologies over the past two years and see how they have evolved.</p>",
+        "bio" : "<p>Alex Wilmer has a passion for all things JavaScript. It started with making side scrollers in Flash and has made its way to building research applications with his amazing colleagues at the Ontario Institute for Cancer Research. He spends much of his free time exploring new technologies, languages and frameworks, giving back what he learns to students at Lighthouse Labs and the Stackoverflow community. He also has a passion for open source and encourages everyone to make as many pull requests as possible. Find him on the TorontoJS slack community to say hello and ask any questions you like!</p>",
+        "role": "Software Developer at Ontario Institute for Cancer Research",
         "room" : "206AB",
         "klass": "fea"
       },
@@ -92,32 +64,23 @@
         "key" : "jane",
         "title": "Good Code: What, Why, and How",
         "speaker": "Jane Prusakova",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "Code Quality, Java, Code Patterns",
+        "about" : "<p>Many programmers are dedicated, or even obsessed, with writing 'good' code. Often we follow certain patterns and practices because we believe they are the best solution for the problem, or because the 'experts' tell us to. In this session, we will discuss what good code really is and what benefits it brings.</p>",
+        "bio" : "<p>Jane is a software architect and developer, an Agile proponent, and a great believer in building valuable software that users love to use. She builds large back-end systems that require high-performance and high-reliability, and process vast amounts of data. Jane believes that successful software is created by strong teams, requires good engineering practices, and evolves in close collaboration with the users. As a Principal Consultant for Improving Enterprises, Jane works with distributed teams on distributed software. As a member of a consulting team, Jane is focused on technical excellence, close contact with the client, and rapid iterations.</p>",
+        "role": "Principal Consultant at Improving Enterprises",
         "room" : "206CD",
         "klass": "bec"
       },
       {
         "key" : "tirell",
-        "title": "Jack of all trades, Development with Vuejs",
+        "title": "Development with Vue.js",
         "speaker": "Tirell Mckinnon",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "Vue.js, Beginner",
+        "about" : "<p>Vue.js is considered component driven, extensible, approachable, and performant view library. Whether you’re a web dev without the frameworks or have been deep in development with Angular, Ember, or React, Vue has a something for you. In this presentation, we will go over the Vue fundamentals, dive into state management, data fetching with Vue, and then wrap up with building your application for production. Let's get started building and delivering products using Vue.</p>",
+        "bio" : "<p>Tirell Mckinnon is a software engineer at Skookum located in Charlotte, NC. Tirell has a background in computer science,  frontend development has always been his passion. Tirell has always had a curiosity of deeply understanding software, he loves solving problems and exploring new technologies. He is a family man, avid learner, hobbyist mountain biker, and a member of the Army National Guard. </p>",
+        "role": "Software Engineer at Skookum",
         "room" : "200C",
         "klass": "new"
-      }
-    ],
-    "12:15-1:00" : [
-      {
-        "title": "Lunch",
-        "speaker": "",
-        "image" : "",
-        "about" : "Lunch will be provided, those who registered with dietary restrictions will have their meal waiting at the registration desk",
-        "bio" : "",
-        "room" : "",
-        "klass" : "full-sm"
       }
     ],
     "1:00-1:45" : [
@@ -125,9 +88,10 @@
         "key" : "jason",
         "title": "React Native Ra11y",
         "speaker": "Jason Matthews",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "React Native, Accesibility",
+        "about" : "<p>The React Native platform has taken the world by storm. Big names like Uber, Instagram, Tesla and Facebook are leveraging the platform to accelerate their development process while maintaining high quality.  There is generally a strong correlation between great quality apps and the level of accessibly features built in. We’ll go through the general methods of making your React Native apps accessible and explore some of the gotchas in this endeavour.</p>",
+        "bio" : "<p>Lover of all things mobile, accessibility and performance. Passionate about React Native and Javascripts.</p>",
+        "role" : "Technical Architect at Sapient Razorfish",
         "room" : "206AB",
         "klass": "fec"
       },
@@ -135,10 +99,10 @@
         "key" : "sam",
         "title": "One Data Pipeline to Rule Them All",
         "speaker": "Sam Kitajima-Kimbrel",
+        "keywords" : "Big Data, Data Wharehousing, Kafka",
+        "about" : "<p>There are a myriad of data storage systems available for every use case imaginable, but letting application teams choose storage engines independently can lead to duplicated efforts and reinventing the wheel. This talk will explore how to build a reusable data pipeline based on Kafka to support multiple applications, datasets, and use cases including archival, warehousing and analytics, stream and batch processing, and low-latency 'hot' storage.</p>",
+        "bio" : "<p>Sam Kitajima-Kimbrel is a software engineer with many feels about distributed systems, data routing and storage, and usable APIs. He currently leads Twilio's Data Platform team, building scalable and reusable data infrastructure to support a 400-person R&amp;D organization. Sam has a different hair color every month, enjoys cycling and cooking, and resides in the San Francisco Bay Area with his husband Kameron and their dog Basil.</p>",
         "role": "Engineering Manager at Twillio",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
         "room" : "206CD",
         "klass": "bea"
       },
@@ -146,22 +110,11 @@
         "key" : "",
         "title": "Submit a UX Talk",
         "speaker": "",
-        "image" : "",
+        "keywords" : "",
         "about" : "",
         "bio" : "",
         "room" : "200C",
         "klass": "ux"
-      }
-    ],
-    "1:45-2:00" : [
-      {
-        "title": "Break",
-        "speaker": "",
-        "image" : "",
-        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
-        "bio" : "",
-        "room" : "200AB",
-        "klass": "full-sm"
       }
     ],
     "2:00-2:45" : [
@@ -169,9 +122,11 @@
         "key" : "ruy",
         "title": "Node.js server side rendering in the Age of APIs",
         "speaker": "Ruy Adorno",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "Node.js, API, Microservices",
+        "about" : "<p>With the increasing popularity of Universal JavaScript and microservices, more and more front-end developers are taking ownership of their server-side render using Node.js.</p>
+        <p>In this talk we'll see how leveraging APIs in both server and client side is giving birth to new libraries and frameworks and what is the role of a front end developer in this post-full stack world.</p>",
+        "bio" : "<p>Ruy Adorno is a Front-End Developer with more than 10 years of experience working with the web and the many versions of ECMAScript. Also an avid open source user and contributor.</p>",
+        "role": "Senior Front-End Developer at AppDirect",
         "room" : "206AB",
         "klass": "fea"
       },
@@ -179,7 +134,7 @@
         "key" : "",
         "title": "Submit a Server Side Talk",
         "speaker": "",
-        "image" : "",
+        "keywords" : "",
         "about" : "",
         "bio" : "",
         "room" : "206CD",
@@ -189,32 +144,22 @@
         "key" : "",
         "title": "Submit an IoT Talk",
         "speaker": "",
-        "image" : "",
+        "keywords" : "",
         "about" : "",
         "bio" : "",
         "room" : "200C",
         "klass": "iot"
       }
     ],
-    "2:45-3:00" : [
-      {
-        "title": "Break",
-        "speaker": "",
-        "image" : "",
-        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
-        "bio" : "",
-        "room" : "200AB",
-        "klass": "full-sm"
-      }
-    ],
     "3:00-3:45" : [
       {
         "key" : "june",
-        "title": "What Rocky Horror taught me about Shadow DOM and CSS",
+        "title": "What Rocky Horror taught me about Shadow DOM",
         "speaker": "Juniper Belmont",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "Shadow DOM, CSS, Code Patterns",
+        "about" : "<p>When I was fifteen I put on an excessive amount of makeup, punk clothes, and bravado to lip sync a song about a sultry space alien intent on making the world fabulous. Then I took off the costume and resumed being a regular Star Wars and computer science nerd. Shadow DOM, too, is about setting up a façade to contain style and content that doesn’t leak out into the rest of the world. This talk will show you how Shadow DOM can be used today to turn hairy HTML and CSS into scoped pieces that can be styled and composed naturally.</p>",
+        "bio" : "<p>Juniper Belmont is a genderqueer developer advocate passionate about the open web platform. They love meeting people, talking about their passions, and giving presentations interspersed with bawdy jokes and lavish, mostly true stories. They use they/them pronouns and they can be found @juniperbelmont</p>",
+        "role" : "Developer Advocate at Vaadin",
         "room" : "206AB",
         "klass": "fec"
       },
@@ -222,9 +167,14 @@
         "key" : "yaroslav",
         "title": "Building Stateful Microservices With Akka",
         "speaker": "Yaroslav Tkachenko",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "Akka, Microservices, State",
+        "about" : "  <p>Although most microservices are stateless - they delegate things like persistence and consistency to a database or external storage. But sometimes you benefit when you keep the state inside the application. In this talk I’m going to discuss why you want to build stateful microservices and design choices to make. I’ll use Akka framework and explain tools like Akka Clustering and Akka Persistence in depth and show a few practical examples.</p>",
+        "bio" : "<p>Yaroslav Tkachenko is a Senior Software Engineer, Lead at Mobify. He joined Mobify to work on Mobify Platform, which includes Progressive Mobile and Engagement Marketing solutions.</p>
+
+        <p>Before that Yaroslav was a Director of Engineering at Bench Accounting. He joined the company as a first employee (and a first Software Engineer) and helped to grow the engineering team from 3 to almost 30 people.</p>
+
+        <p>At Bench Yaroslav worked with Platform and Integrations teams and was mostly focused on designing and implementing microservices architecture using various stacks (Scala, Node.js), building low-level infrastructure and contributing to DevOps tooling.</p>",
+        "role": "Senior Software Engineer, Lead at Mobify",
         "room" : "206CD",
         "klass": "bea"
       },
@@ -232,22 +182,12 @@
         "key" : "morgan",
         "title": "Help! Work Is Killing My Creativity",
         "speaker": "Morgan Zion",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "Career Development, Coaching",
+        "about" : "<p>Did you expect your job was going to be more creative? Have you felt like you have become a rusty version of your old artistic self? Do you feel like quitting your job to find a more “creative” one? Step one, DO NOT panic or trade your mouse for a paint brush and black bourret. In this helpful yet playful session, you’ll be brought through steps, tips and inspirations to get you over your creative blockades and into the working world of creativity.</p>",
+        "bio" : "<p>As a lover of all experiences both tangible and intangible, Morgan Zion, UX Design Manager and Associate Creative Director , aims to build lasting products and designs. These products and designs of her's carry the very obvious tangible qualities of well-constructed ideas but also convey a deep intangible message.  She is an avid artist and even though she works in the world of tech and is an avid recycler, she stills dies a bit inside when people tell her, 'Print is dead'.  She loves texture and drawing in real time, with no lag, on paper (sorry Mr. Tree).</p>",
+        "role": "UX Design Manager at Amazon",
         "room" : "200C",
         "klass": "ux"
-      }
-    ],
-    "3:45-4:00" : [
-      {
-        "title": "Break",
-        "speaker": "",
-        "image" : "",
-        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
-        "bio" : "",
-        "room" : "200AB",
-        "klass": "full-sm"
       }
     ],
     "4:00-4:45" : [
@@ -255,9 +195,10 @@
         "key" : "ben",
         "title": "Isomorphic React sans Node??",
         "speaker": "Ben Ilegbodu",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "React, Code Patterns, Python/Django",
+        "about" : "<p>React is a JavaScript library for building user interfaces that has taken the web development industry by storm. Its declarative syntax and DOM abstraction for components not only make client-side development simple, but also enables server-side rendering of those same components, which enables improved SEO and initial browser load time. But how do you render JavaScript React components server-side if your backend doesn’t run on Node? Learn how Eventbrite successfully integrated React with their Python/Django backend so that you can do the same in yours.</p>",
+        "bio" : "<p>Ben is a Christian, a husband and a father of 2 with 10+ years of experience developing user interfaces for the Web. He currently leads and manages Eventbrite’s Frontend Platform team. On the side, Ben also enjoys playing basketball, DIY, watching movies, and blogging (benmvp.com) / tweeting (@benmvp) about his experiences with new web technologies.</p>",
+        "role": "Senior UI Engineer &amp; Manager at Eventbrite",
         "room" : "206AB",
         "klass": "fea"
       },
@@ -265,7 +206,7 @@
         "key" : "",
         "title": "Submit a Server Side Talk",
         "speaker": "",
-        "image" : "",
+        "keywords" : "",
         "about" : "",
         "bio" : "",
         "room" : "206CD",
@@ -275,7 +216,7 @@
         "key" : "",
         "title": "TBA",
         "speaker": "",
-        "image" : "",
+        "keywords" : "",
         "about" : "",
         "bio" : "",
         "room" : "200C",
@@ -289,9 +230,9 @@
         "key" : "luke",
         "title": "Fantastic Types and Where To Use Them",
         "speaker": "Luke Westby",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "Types, Code Patterns",
+        "about" : "<p>You can be a functional programmer! And if you're building JavaScript apps, there's a good chance you already are. FP in languages like Haskell is about finding common ground with principles in math that let us talk about how all our different and diverse code works using a universal (isomorphic?) vocabulary. And since JavaScript comes with so much flexibility we can do the same thing on the client if only we take some time to learn the patterns. Join me for this talk and I'll teach you what things like Functors and Monads are, when to use them, and what you get as a reward for doing so.</p>",
+        "bio" : "<p>Luke is the cofounder and a partner at HumbleSpark located in Chicago, IL, USA. Luke is an active member of the Elm community, helping to maintain several open source packages including elm-lang/core and elm-http-builder. Luke loves contributing to the Elm community by speaking about the language, answering questions in the Elm Slack, writing blog posts, and organizing the Chicago Elm Meetup. When Luke isn't thinking about code he likes to play the guitar, speed-run Metroid Fusion, and watch far too much TV with his fiancée.</p>",
         "room" : "206AB",
         "klass": "fec"
       },
@@ -299,7 +240,7 @@
         "key" : "",
         "title": "Submit a Server Side Talk",
         "speaker": "",
-        "image" : "",
+        "keywords" : "",
         "about" : "",
         "bio" : "",
         "room" : "206CD",
@@ -307,34 +248,25 @@
       },
       {
         "key" : "ivana",
-        "title": "Remote working: Swings &amp; Roundabouts",
+        "title": "Remote Working: Swings &amp; Roundabouts",
         "speaker": "Ivana McConnell",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "Remote Work, Collaboration, Leadership",
+        "about" : "<p>Remote teams, when built right, are a wonderful unicorn of trust, freedom, and creative productivity. However, in pursuing this unicorn, it’s difficult to remember that working remotely is incredibly difficult— professionally, psychologically, and personally. It affects everyone differently— developers, designers, managers, and everyone in between. In this talk we'll dispel some myths around remote teams and collaboration, torture the Sword of Damocles metaphor, and share some learnings around making those remote teams work, both professionally and interpersonally. Hopefully, we'll achieve vaunted unicorn status.</p>",
+        "bio" : "<p>Ivana was born in Sarajevo to a civil engineer-turned-translator and a UN Logistics Officer-turned-software engineer, and is now based in Vancouver. She arrived there via Croatia, Scotland, and Toronto, and has previously made a living as a rock climbing instructor and video game tester. The first code problem she remembers solving is figuring out the difference between a local and public URL while sprucing up a Neopets guild page. These days she’s a senior UX designer at Customer.io, and is most interested in the intersections of technology, identity, and data.</p>",
+        "role" : "Sr. UI/UX Designer at Customer.io",
         "room" : "200C",
         "klass": "ts"
-      }
-    ],
-    "10:15-10:30" : [
-      {
-        "title": "Break",
-        "speaker": "",
-        "image" : "",
-        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
-        "bio" : "",
-        "room" : "200AB",
-        "klass" : "full-sm"
       }
     ],
     "10:30-11:15" : [
       {
         "key" : "dana",
-        "title": "Oh Behave!: Behavior-Driven Development with Cucumber",
+        "title": "Oh Behave!: BDD with Cucumber",
         "speaker": "Dana Scheider",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "BDD, Cucumber, Testing",
+        "about" : "  <p>Cucumber is a powerful and versatile tool for collaboration and testing, but many developers don’t know how best to incorporate it into their workflows. In this talk, Dana Scheider of the Cucumber Core Team will show you how to supercharge your products and processes with Behaviour Driven Development and Cucumber.</p>",
+        "bio" : "<p>Dana Scheider is a member of the Cucumber core team and lead author of Rambo, a contract testing tool for Ruby. She is particularly interested in testing, REST API design, and improving processes within engineering organizations.</p>",
+        "role": "BDD Evangelist at HealthSparq",
         "room" : "206AB",
         "klass": "fea"
       },
@@ -342,7 +274,7 @@
         "key" : "",
         "title": "Submit a Server Side Talk",
         "speaker": "",
-        "image" : "",
+        "keywords" : "",
         "about" : "",
         "bio" : "",
         "room" : "206CD",
@@ -352,22 +284,12 @@
         "key" : "matt",
         "title": "Designing Everyday Privacy and Security",
         "speaker": "Matthew Davey",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "UX, Privacy, Trust",
+        "about" : "<p>Two factor shouldn't be just for security experts and encryption shouldn't be presented as defensive. I will look at security from the position of a utility for everyone. Framing it as friendly, important and placing importance on your personal data. Security and Privacy are complex ideas important to everyone. Learn how to lower the bar to entry using language, layout and levity.</p>",
+        "bio" : "<p>I grew up in a little village in England 🇬🇧 but I live in Toronto 🇨🇦 and design for 1Password. Previously I've designed for brands like Ecco, Gucci, HSBC and Microsoft.</p>",
+        "role": "Senior Product Designer at AgileBits on Lastpass",
         "room" : "200C",
         "klass": "ux"
-      }
-    ],
-    "11:15-11:30" : [
-      {
-        "title": "Break",
-        "speaker": "",
-        "image" : "",
-        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
-        "bio" : "",
-        "room" : "200AB",
-        "klass": "full-sm"
       }
     ],
     "11:30-12:15" : [
@@ -375,9 +297,10 @@
         "key" : "houssein",
         "title": "Progressive Web Apps",
         "speaker": "Houssein Djirdeh",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "PWA, Angular 2, React",
+        "about" : "<p>PWAs are applications that use modern web capabilities to provide a user experience similar to that of mobile and native apps. This presentation will go over how you can add a number of progressive aspects to your application including faster load times, offline support and the ability to install to your mobile home screen.</p>",
+        "bio" : "<p>Houssein is passionate about JavaScript and all things web. Based in Toronto, he works as a JavaScript developer at Rangle.io. On the rare occasions when Houssein is not working on a blog post or his next side project, he enjoys weightlifting and long walks on the beach.</p>",
+        "role": "Software Developer at Rangle.io",
         "room" : "206AB",
         "klass": "fec"
       },
@@ -385,9 +308,9 @@
         "key" : "chris",
         "title": "Building a Better API with JSON:API",
         "speaker": "Chris Guzman",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "JSON:API, Microservices, Ruby on Rails",
+        "about" : "<p>If you’ve implemented API endpoints or consumed APIs it may bug you that every API seems to be different. What if there was a universal standard that made sense? Enter JSON:API, a standard for creating self explaining JSON APIs. Clients built around JSON:API can efficiently cache responses, sometimes eliminating network requests entirely. This session will teach you how you can get started with JSON:API</p>",
+        "bio" : "<p>Chris is a Developer Advocate at Nexmo where he helps developers use their global communications platform. He co-organizes the Baltimore Hackathon, Baltimore’s Google Developer Group, and teaches classes at Betamore.</p>",
         "room" : "206CD",
         "klass": "bea"
       },
@@ -395,22 +318,11 @@
         "key" : "",
         "title": "TBA",
         "speaker": "",
-        "image" : "",
+        "keywords" : "",
         "about" : "",
         "bio" : "",
         "room" : "200C",
         "klass": "iot"
-      }
-    ],
-    "12:15-1:00" : [
-      {
-        "title": "Lunch",
-        "speaker": "",
-        "image" : "",
-        "about" : "Lunch will be provided, those who registered with dietary restrictions will have their meal waiting at the registration desk",
-        "bio" : "",
-        "room" : "",
-        "klass" : "full-sm"
       }
     ],
     "1:00-1:45" : [
@@ -418,7 +330,7 @@
         "key" : "",
         "title": "TBA",
         "speaker": "",
-        "image" : "",
+        "keywords" : "",
         "about" : "",
         "bio" : "",
         "room" : "206AB",
@@ -428,7 +340,7 @@
         "key" : "",
         "title": "TBA",
         "speaker": "",
-        "image" : "",
+        "keywords" : "",
         "about" : "",
         "bio" : "",
         "room" : "206CD",
@@ -438,22 +350,12 @@
         "key" : "arushi",
         "title": "Blockchain - Why and how",
         "speaker": "Arushi Srivastava",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "Blockchain, Beginner, Code Patterns",
+        "about" : "<p>This major technology trend has already started software architecture for financial services and insurance industries and is now making its way to other industries like healthcare, supply chain and government. In the next 2-3 years you will have the responsibility of understanding, implementing an/or using Blockchain, just the way you do it for cloud today. This talk will introduce the you to the Blockchain architecture and we will dive deeper into the specifics of its utility, implementation and technical skills requirement. The talk will end with giving the audience specific steps on how to start their Blockchain journey and if already started then how to overcome the roadblocks.</p>",
+        "bio" : "<p>Arushi Srivastava is the Senior Director of NTT DATA’s Advance Tech Initiatives Practice. She advises corporate leaders on architecting next generation solutions that result in Digital Transformation. At present, she is leading several internal and customer specific Digital Strategy, Digital Engagement, Design Thinking, IoT and Blockchain initiatives for NTT DATA.   She has ~12 years of professional IT experience in large-scale software projects, leading Digital Strategy, Enterprise Architecture, Business Analysis, Solution Design and development areas. Early in her career, she worked with NTT Data’s Telecommunication and Public Sector clients, where she lead several Enterprise, Solution and System Architecture engagements.</p>",
+        "role": "Senior Director at NTT DATA",
         "room" : "200C",
         "klass": "new"
-      }
-    ],
-    "1:45-2:00" : [
-      {
-        "title": "Break",
-        "speaker": "",
-        "image" : "",
-        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
-        "bio" : "",
-        "room" : "200AB",
-        "klass": "full-sm"
       }
     ],
     "2:00-2:45" : [
@@ -461,9 +363,11 @@
         "key" : "henri",
         "title": "In DevTools We Trust",
         "speaker": "Henri Helvetica",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "Performance, Monitoring, Code Tools",
+        "about" : "<p>The modern developer workflow often starts with authoring a simple SPA, followed by a live push, but often concludes with a bottleneck discovery. With near certainty, the application was not tested, despite the availability of a testing tool a keystroke away: option-command-I bka Developer Tools.
+        <p>‘In DevTools We Trust’ will equip developers with the capacity to correctly conduct application analysis, and provide solutions in the dissolution of performance bottlenecks.</p>",
+        "bio" : "<p>Henri is a freelance developer who has turned his interests to a macédoine of site performance engineering with pinches of user experience. When not reading the deluge of daily research docs and case studies, or indiscriminately auditing sites in devtools, Henri can be found contributing back to the community, co-programming meetups including the Toronto Web Performance Group or volunteering his time for lunch and learns at various bootcamps. Otherwise, he’s tooling with music production software or with near certainty training and focusing on running the fastest 5k possible. </p>",
+        "role": "Freelancer",
         "room" : "206AB",
         "klass": "fec"
       },
@@ -471,7 +375,7 @@
         "key" : "",
         "title": "Submit a Server Side Talk",
         "speaker": "",
-        "image" : "",
+        "keywords" : "",
         "about" : "",
         "bio" : "",
         "room" : "206CD",
@@ -481,42 +385,34 @@
         "key" : "ole",
         "title": "Get your fancy pants on with Elixir",
         "speaker": "Ole Michaelis",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "Elixir, Beginner",
+        "about" : "<p>With Elixir you get all the power of Erlang and it’s hardened frameworks and libraries like OTP and cowboy with a Ruby-esque syntax. When WhatsApp was sold to Facebook, everyone was talking about Erlang. Everyone wanted to know how it was possible to build such a resilient and highly scalable system. With hot code swapping, the BEAM Machine allows zero downtime deployments and gives you highly available systems.</p>",
+        "bio" : "<p>Ole Michaelis is the co-founder of SoCoded, a hackfest and web development conference in Hamburg. He’s a Software Engineer working for DNSimple making Domain Automation a breeze. In his free time, he’s building slidr.io, a hazzle-free slide sharing platform. Ole is passionate about open source software, enjoys traveling, and loves Mexican food. He classifies himself as a 'bad' German as he dislikes beer and soccer – the traditional German past-times. </p>",
+        "role": "Senior Software Engineer at DNSimple",
         "room" : "200C",
         "klass": "new"
-      }
-    ],
-    "2:45-3:00" : [
-      {
-        "title": "Break",
-        "speaker": "",
-        "image" : "",
-        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
-        "bio" : "",
-        "room" : "200AB",
-        "klass": "full-sm"
       }
     ],
     "3:00-3:45" : [
       {
         "key" : "jana",
-        "title": "Fighting JavaScript fatigue? Try JavaScript therapy!",
+        "title": "Conversing with ES2015 and Generators",
         "speaker": "",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "ES2015, Code Patterns, Functional",
+        "about" : "<p>JavaScript got generator functions in ES2015, but perhaps—unlike other ES2015 features like `const`, computed property names, and arrow functions—you haven’t used them yet. The disruption of the “normal” control flow that occurs with generators can feel a bit like turning your brain inside-out, but generators are definitely useful. In this talk, we’ll seek to understand generators through the metaphor of conversation, modeling the relationship between a generator function and its calling context as a turn-taking relationship, just like a (good) conversation so that JavaScript can provide not just our livelihood but our therapy too.</p>",
+        "bio" : "<p>Jana Beck is a coffee-fueled engineer at a small open-source and not-for-profit startup called Tidepool, based in the Bay Area of California but with developers on three continents. Tidepool's mission is to reduce the burden of type 1 diabetes through data technology, and Jana works mostly on Tidepool's front-end stack (React with Redux; D3 for data visualization). When she's not coding or sleeping, there's a high probability that Jana is sweating in a gym or a dance studio.</p>",
+        "role": "Software Engineer at Tidepool",
         "room" : "206AB",
-        "klass": "fea"
+        "klass": "fec"
       },
       {
         "key" : "kristina",
         "title": "Tackling Technical Debt",
-        "speaker": "Jana Beck",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "speaker": "Kristina Balaam",
+        "keywords" : "Code Quality, Code Patterns, Travis CI",
+        "about" : "<p>As developers, we understand the importance of writing scalable, quality code. Testing provides a safeguard against much of the technical debt we would otherwise accumulate with faulty logic and missed use cases. However, implementing tests also tends to be lower priority for many teams. It's important to recognize why technical debt can be so crippling to a team's productivity, and how continuous integration testing and code coverage applications can help the lifespan of a project _and_ the sanity of a team. We'll look at some hard data to back up this assertion and walk through a simple open source project integration with Codecov and Travis CI.</p>",
+        "bio" : "<p>Kristina is a software engineer with Shopify's Developer Experience team, working primarily with the platform's API and app store. Prior to Shopify, Kristina led a team of developers building web and mobile applications for enterprise and start-up clients. Kristina graduated with a Bachelor of Computer Science from McGill University in 2012. She mentors with the Toronto chapter of Women in Leadership, founded the Women in Tech Toronto book club and leads the Toronto chapter of the Women in Tech Week conference.</p>",
+        "role": "Software Engineer at Shopify",
         "room" : "206CD",
         "klass": "bea"
       },
@@ -524,22 +420,11 @@
         "key" : "",
         "title": "Submit a UX Talk",
         "speaker": "",
-        "image" : "",
+        "keywords" : "",
         "about" : "",
         "bio" : "",
         "room" : "200C",
         "klass": "ux"
-      }
-    ],
-    "3:45-4:00" : [
-      {
-        "title": "Break",
-        "speaker": "",
-        "image" : "",
-        "about" : "Grab a coffee or tea and meet our sponsors in the vendor lounge",
-        "bio" : "",
-        "room" : "200AB",
-        "klass": "full-sm"
       }
     ],
     "4:00-4:45" : [
@@ -547,9 +432,9 @@
         "key" : "marissa",
         "title": "Keynote: Empowering through mentoring",
         "speaker": "Marissa Levy Lerer",
-        "image" : "",
-        "about" : "",
-        "bio" : "",
+        "keywords" : "Leadership, Career Development, Coaching",
+        "about" : "TBA",
+        "bio" : "<p>Marissa Lerer is a technologist, musician, cake decorator and mom. She received a BS in Music Education and an MA in Graphic Communications, Management and Technology from NYU. She is currently managing a team of developers, as CTO at COMPOSE[D], a digital creative and development agency in New York. Marissa prides herself on being a “cool nerd” who likes to get her hands in everything. She is also an accomplished singer/songwriter who has released three albums. She has also participated in the 2012 StartupBus and was on the winning team of the 2012 International Space Apps Challenge. She is passionate about mentorship, especially for women in tech. In addition to teaching programming at the School of Visual Arts she is also a regular panelist at Pace Path Live and recently mentored Girl Scouts at a SXSW event sponsored by Twitter and Dove. Last year she was the keynote speaker at Full Stack Toronto.</p>",
         "room" : "206ABCD",
         "klass": "full"
       }

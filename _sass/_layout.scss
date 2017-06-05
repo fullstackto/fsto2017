@@ -216,7 +216,17 @@ nav.navigation {
 }
 //Speakers
 .speaker {
-  margin: 40px 0;
+  width: 100%;
+  margin: 40px 1%;
+  @media #{$md-min} {
+    width: 48%;
+    float: left;
+    &:nth-child(2n + 1) {
+      clear: both;
+      content: ' ';
+      display: table;
+    }
+  }
   .pull-left {
     margin-right: 10px;
   }
@@ -286,10 +296,10 @@ nav.navigation {
   }
 }
 .card {
-  box-shadow: 0px 1px 5px rgba(0,0,0,0.5);
+  box-shadow: 0px 1px 5px rgba(0,0,0,0.2);
   box-sizing: border-box;
   padding: 10px;
-  height: 106px;
+  height: 126px;
   overflow: hidden;
   p {
     font-size: 14px;
@@ -307,7 +317,7 @@ nav.navigation {
     width: 100%;
     margin: 1.5% 0;
   }
-  @media #{$md-min} {
+  @media #{$sm-min} {
     &.fea, &.fec, &.bea, &.bec, &.new, &.iot, &.ux, &.ts {
       width: 32.3%;
       float: left;
