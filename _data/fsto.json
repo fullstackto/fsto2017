@@ -213,12 +213,17 @@
         "klass": "bec"
       },
       {
-        "key" : "",
-        "title": "TBA",
-        "speaker": "",
-        "keywords" : "",
-        "about" : "",
-        "bio" : "",
+        "key" : "cordelia",
+        "title": "Inclusive and accessible products and teams",
+        "speaker": "B Cordelia Yu",
+        "role": "Content &amp; Editorial Strategist at A Yellow Raven",
+        "keywords" : "Inclusion, Team Building, Strategy",
+        "about" : "<p>The most engaging social media plan or the most inclusive style guide fails if the product is not also accessible. That is why content strategists who care about inclusivity must be at the table to help shape product strategy and business decisions.</p>
+
+        <p>Come hear the lessons from a multi-year effort to help a major national environmental nonprofit—an industry that is both centered around justice and still grappling with its legacy of discrimination—make its programs more inclusive of marginalized communities, as a part of modernizing its editorial, publishing, and programatic processes.</p>",
+        "bio" : "<p>Bernard Cordelia Yu is a(n) strategist at the intersection of scholarship, social justice, and policy. They help align organizational, editorial, and product processes in social and environmental justice to make knowledge accessible and inclusive. They love building inclusive spaces to build inclusive teams to build inclusive products to build inclusive communities.
+
+        <p>B Cordelia believes that, like in martial arts, the surest path to rapid response times in any campaign is good preparation and training. Their pronouns are they, them, and their.</p>",
         "room" : "200C",
         "klass": "ts"
       }
