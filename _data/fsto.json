@@ -168,13 +168,15 @@
         "title": "Building Stateful Microservices With Akka",
         "speaker": "Yaroslav Tkachenko",
         "keywords" : "Akka, Microservices, State",
-        "about" : "  <p>Although most microservices are stateless - they delegate things like persistence and consistency to a database or external storage. But sometimes you benefit when you keep the state inside the application. In this talk I’m going to discuss why you want to build stateful microservices and design choices to make. I’ll use Akka framework and explain tools like Akka Clustering and Akka Persistence in depth and show a few practical examples.</p>",
-        "bio" : "<p>Yaroslav Tkachenko is a Senior Software Engineer, Lead at Mobify. He joined Mobify to work on Mobify Platform, which includes Progressive Mobile and Engagement Marketing solutions.</p>
-
-        <p>Before that Yaroslav was a Director of Engineering at Bench Accounting. He joined the company as a first employee (and a first Software Engineer) and helped to grow the engineering team from 3 to almost 30 people.</p>
-
-        <p>At Bench Yaroslav worked with Platform and Integrations teams and was mostly focused on designing and implementing microservices architecture using various stacks (Scala, Node.js), building low-level infrastructure and contributing to DevOps tooling.</p>",
-        "role": "Senior Software Engineer, Lead at Mobify",
+        "about" : "<p>Although most microservices are stateless - they delegate things like persistence and consistency to a database or external storage. But sometimes you benefit when you keep the state inside the application. In this talk I’m going to discuss why you want to build stateful microservices and design choices to make. I’ll use Akka framework and explain tools like Akka Clustering and Akka Persistence in depth and show a few practical examples.</p>",
+        "bio" : "<p>Yaroslav Tkachenko is a software engineer interested in distributed systems, microservices, modern cloud infrastructure and DevOps practices. Currently Yaroslav is a Senior Software Engineer at Demonware (Activision), working on a large-scale data pipeline.</p>
+        
+        <p>Prior to joining Demonware he spent some time at Mobify, leading the new Platform team. Yaroslav was responsible for developing, delivering and maintaining various platform components. He also worked on improvements for the realtime analytics pipeline.</p>
+        
+        <p>Before that Yaroslav held multiple roles at Bench Accounting (the most recent one being the Director of Engineering). He joined the company as a first employee (and a first full-time Software Engineer) and helped to grow the engineering team from 3 to almost 30 people.</p>
+        
+        <p>At Bench Yaroslav worked with Platform and Integrations teams and was mostly focused on designing and implementing microservices architecture, building platform services, cloud infrastructure and contributing to the DevOps tooling.</p>",
+        "role": "Senior Software Engineer at Demonware (Activision)",
         "room" : "206CD",
         "klass": "bea"
       },
