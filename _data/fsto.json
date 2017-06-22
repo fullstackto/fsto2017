@@ -344,14 +344,15 @@
         "klass": "fea"
       },
       {
-        "key" : "tba",
-        "title": "TBA",
-        "speaker": "",
-        "keywords" : "",
-        "about" : "",
-        "bio" : "",
+        "key" : "arthur",
+        "title": "From Commit To Production And Beyond - The Continuous Delivery Pipeline",
+        "speaker": "Arthur Maltson",
+        "keywords" : "Continuous Delivery",
+        "about" : "<p>You’ve probably heard about Continuous Delivery, and maybe you've heard of DevOps, but how are the two related? Throughout this talk you will learn what Continuous Delivery is and why your organization should strive to achieve it. You will then embark on a Continuous Delivery journey that will highlight the level of DevOps maturity an organization should be at to safely deliver to production on a regular basis and keep it running for the long term.</p>",
+        "bio" : "<p>Arthur Maltson is a Lead DevOps Engineer at Capital One Canada who’s 70% Dev and 30% Ops. He’s currently practicing DevOps during the day and, as a husband and father he’s also doing DadOps at night. Arthur embodies the Full Stack developer with his passion for infrastructure automation, API crafting, front end development and making work fun by introducing and/or building new tools.</p><p>In his spare time Arthur spends far too much time trying to keep up with the latest tech. He also occasionally blogs, Tweets and commits to OSS.</p>",
+        "role" : "Sr. Manager, Software Engineering at CapitalOne",
         "room" : "206CD",
-        "klass": "bec"
+        "klass": "bea"
       },
       {
         "key" : "arushi",
