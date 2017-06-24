@@ -131,12 +131,14 @@
         "klass": "fea"
       },
       {
-        "key" : "tba",
-        "title": "Submit a Server Side Talk",
-        "speaker": "",
-        "keywords" : "",
-        "about" : "",
-        "bio" : "",
+        "key" : "toria",
+        "title": "A Search Index is Not a Database Index",
+        "speaker": "Toria Gibbs",
+        "keywords" : "Databases, Performance, SQL",
+        "about" : "<p>A search engine is not a database. Search systems are optimized for fast search using an internal data structure called an inverted index. Databases have a similar feature to allow quick access, also called an index, but it’s a totally different thing!</p>
+
+        <p>In this talk, Toria Gibbs will take you on a tour of the internals of a search index, comparing it to common implementations of indexing in relational databases. We’ll see how search engines can outperform databases and discuss the tradeoffs in implementing and maintaining such a system. No prior knowledge of database or search index implementations required; experience creating or querying database tables will be helpful.</p>",
+        "bio" : "<p>Toria Gibbs is a Senior Software Engineer working on Search Infrastructure at Etsy. She's interested in infrastructure development, distributed systems, and information retrieval (including databases and search systems). Toria holds a computer science degree from the University of Waterloo. In her spare time, Toria bakes desserts for her blog and plays flag football.</p>",
         "room" : "206CD",
         "klass": "bec"
       },
@@ -170,11 +172,11 @@
         "keywords" : "Akka, Microservices, State",
         "about" : "<p>Although most microservices are stateless - they delegate things like persistence and consistency to a database or external storage. But sometimes you benefit when you keep the state inside the application. In this talk I’m going to discuss why you want to build stateful microservices and design choices to make. I’ll use Akka framework and explain tools like Akka Clustering and Akka Persistence in depth and show a few practical examples.</p>",
         "bio" : "<p>Yaroslav Tkachenko is a software engineer interested in distributed systems, microservices, modern cloud infrastructure and DevOps practices. Currently Yaroslav is a Senior Software Engineer at Demonware (Activision), working on a large-scale data pipeline.</p>
-        
+
         <p>Prior to joining Demonware he spent some time at Mobify, leading the new Platform team. Yaroslav was responsible for developing, delivering and maintaining various platform components. He also worked on improvements for the realtime analytics pipeline.</p>
-        
+
         <p>Before that Yaroslav held multiple roles at Bench Accounting (the most recent one being the Director of Engineering). He joined the company as a first employee (and a first full-time Software Engineer) and helped to grow the engineering team from 3 to almost 30 people.</p>
-        
+
         <p>At Bench Yaroslav worked with Platform and Integrations teams and was mostly focused on designing and implementing microservices architecture, building platform services, cloud infrastructure and contributing to the DevOps tooling.</p>",
         "role": "Senior Software Engineer at Demonware (Activision)",
         "room" : "206CD",
