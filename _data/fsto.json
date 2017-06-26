@@ -428,12 +428,17 @@
         "klass": "bea"
       },
       {
-        "key" : "tba",
-        "title": "Submit a UX Talk",
-        "speaker": "",
-        "keywords" : "",
-        "about" : "",
-        "bio" : "",
+        "key" : "marisam",
+        "title": "What Big Data is Missing: Remembering Our Humanity",
+        "speaker": "Marisa Morby",
+        "keywords" : "Big Data, UX",
+        "about" : "<p>What makes people buy something online? Is it the color of a button, the words in the headline, or eye-catching design? Big data tells us that if we get the right combination of these things, we'll see a huge uptick in sales. But what it doesn't account for is the individual. Because each person that clicks buy has a much larger story to tell.</p>",
+        "bio" : "<p>Marisa Morby has a background in User Experience copywriting, and marketing. She specializes in digital optimization, user research, and user experience flow for web and mobile applications.
+
+        She's worked with clients to create a more personal approach to marketing, used data to optimize businesses, and helped her clients connect with customers on a human level.
+
+        When she's not writing or reading about psychology, she can be found in the wild doing all sorts of things like: eating her way around the world, perfecting a chocolate chip cookie recipe, or sitting in the park doing some serious people watching.</p>",
+        "role":"Optimization Director at Clearhead",
         "room" : "200C",
         "klass": "ux"
       }
