@@ -280,12 +280,13 @@
         "klass": "fea"
       },
       {
-        "key" : "tba",
-        "title": "Submit a Server Side Talk",
-        "speaker": "",
-        "keywords" : "",
-        "about" : "",
-        "bio" : "",
+        "key" : "dejan",
+        "title": "Authentication in Microservice Systems",
+        "speaker": "Dejan Glozic",
+        "keywords" : "Security, MicroServices, Node.js",
+        "about" : "<p>Authentication is a nontrivial yet unavoidable part of any modern Web application. The rise of microservice systems and micro front-ends have added additional complexity to this area. In this talk, I will share a tried and true technique we battle-tested in a a large production Node.js microservice system. You will be able to apply this technique in your own microservice system with relative ease.</p>",
+        "bio" : "<p>Dejan Glozic is a Senior Technical Staff Member in IBM Toronto Laboratory, where he spent more than 20 years working on various projects involving Eclipse platform, Web technologies, Node.js, React and microservice systems. Dejan has a wealth of experience with various topics of modern architecture, and considers himself a Full Stack Architect (if such a thing exists). He is proud of being a 'hands on' architect, avoiding slideware and instead trusting in the power of running code. Read Dejan's thoughts on his blog at dejanglozic.com, or follow him on twitter as @dglozic.</p>",
+        "role" : "Senior Technical Staff Member, IBM Watson Cloud Platform",
         "room" : "206CD",
         "klass": "bec"
       },
