@@ -15,13 +15,14 @@
     ],
     "10:30-11:15" : [
       {
-        "key" : "tba",
-        "title": "TBA",
-        "speaker": "",
-        "keywords" : "",
-        "about" : "",
-        "bio" : "",
-        "room" : "206AB",
+        "key" : "tirell",
+        "title": "Development with Vue.js",
+        "speaker": "Tirell Mckinnon",
+        "keywords" : "Vue.js, Beginner",
+        "about" : "<p>Vue.js is considered component driven, extensible, approachable, and performant view library. Whether you’re a web dev without the frameworks or have been deep in development with Angular, Ember, or React, Vue has a something for you. In this presentation, we will go over the Vue fundamentals, dive into state management, data fetching with Vue, and then wrap up with building your application for production. Let's get started building and delivering products using Vue.</p>",
+        "bio" : "<p>Tirell Mckinnon is a software engineer at Skookum located in Charlotte, NC. Tirell has a background in computer science,  frontend development has always been his passion. Tirell has always had a curiosity of deeply understanding software, he loves solving problems and exploring new technologies. He is a family man, avid learner, hobbyist mountain biker, and a member of the Army National Guard. </p>",
+        "role": "Software Engineer at Skookum",
+        "room" : "200C",
         "klass": "fec"
       },
       {
@@ -30,9 +31,7 @@
         "speaker": "Jonah Kowall",
         "keywords" : "Performance, Monitoring, Big Data",
         "about" : "<p>Monitoring is complicated, and in most organizations consists of far too many tools owned by too many teams.  Fixing monitoring issues requires people, process, and technology. Hear common issues seen in the real world including what should be monitored or collected from a technology and a business perspective. Investigate what instrumentation is most scalable and effective across languages, commonly used APIs, and possibilities for capturing data from common languages.</p>",
-        "bio" : "<p>Jonah Kowall trained in computer science and co-founded one of the first content filtering companies in the late 1990’s. Jonah became a security expert committing code to both the FreeBSD project and helped build the first wireless cracking algorithms.</p>
-
-        <p>In 2011 Jonah changed careers, moving to Gartner to focus on availability and performance monitoring and IT operations management (ITOM). Speaking and writing research globally for IT leaders and CIOs. Jonah led Gartner's influential application performance monitoring (APM) and created the network performance monitoring and diagnostics (NPMD) magic quadrants. In 2015 Jonah joined AppDynamics to drive the company’s product strategy, roadmap and vision, while developing entry into new markets and providing valuable technology and business insights.</p>",
+        "bio" : "<p>Jonah Kowall trained in computer science and co-founded one of the first content filtering companies in the late 1990’s. Jonah became a security expert committing code to both the FreeBSD project and helped build the first wireless cracking algorithms.</p><p>In 2011 Jonah changed careers, moving to Gartner to focus on availability and performance monitoring and IT operations management (ITOM). Speaking and writing research globally for IT leaders and CIOs. Jonah led Gartner's influential application performance monitoring (APM) and created the network performance monitoring and diagnostics (NPMD) magic quadrants. In 2015 Jonah joined AppDynamics to drive the company’s product strategy, roadmap and vision, while developing entry into new markets and providing valuable technology and business insights.</p>",
         "room" : "206CD",
         "klass": "bea"
       },
@@ -72,15 +71,15 @@
         "klass": "bec"
       },
       {
-        "key" : "tirell",
-        "title": "Development with Vue.js",
-        "speaker": "Tirell Mckinnon",
-        "keywords" : "Vue.js, Beginner",
-        "about" : "<p>Vue.js is considered component driven, extensible, approachable, and performant view library. Whether you’re a web dev without the frameworks or have been deep in development with Angular, Ember, or React, Vue has a something for you. In this presentation, we will go over the Vue fundamentals, dive into state management, data fetching with Vue, and then wrap up with building your application for production. Let's get started building and delivering products using Vue.</p>",
-        "bio" : "<p>Tirell Mckinnon is a software engineer at Skookum located in Charlotte, NC. Tirell has a background in computer science,  frontend development has always been his passion. Tirell has always had a curiosity of deeply understanding software, he loves solving problems and exploring new technologies. He is a family man, avid learner, hobbyist mountain biker, and a member of the Army National Guard. </p>",
-        "role": "Software Engineer at Skookum",
+        "key" : "tba",
+        "title": "TBA",
+        "speaker": "TBA",
+        "keywords" : "TBA",
+        "about" : "TBA",
+        "bio" : "<p>TBA</p>",
+        "role": "TBA",
         "room" : "200C",
-        "klass": "new"
+        "klass": "ux"
       }
     ],
     "1:00-1:45" : [
@@ -108,7 +107,7 @@
       },
       {
         "key" : "tba",
-        "title": "Submit a UX Talk",
+        "title": "Tba",
         "speaker": "",
         "keywords" : "",
         "about" : "",
@@ -143,12 +142,13 @@
         "klass": "bec"
       },
       {
-        "key" : "tba",
-        "title": "Submit an IoT Talk",
-        "speaker": "",
-        "keywords" : "",
-        "about" : "",
-        "bio" : "",
+        "key" : "dan",
+        "title": "Sensors bring all the boys to the yard.",
+        "speaker": "Dan Jenkins",
+        "keywords" : "Internet of Things, Sensors, JavaScript",
+        "about" : "<p>Automating your home or office is easier than ever before. It can be done today using free, open source software and sensors. Placing all the right blocks together can be difficult but not if you're given a push in the right direction. Stop turning on that light at the same time every day - make a machine do it for you.</p>",
+        "bio" : "<p>Based in Kent, Dan's is the founder of Nimble Ape Ltd, which he started at the beginning of 2014. Dan loves working with Node.js and with its community, along with his passion for building great architecture for Applications. For the past few years Dan's been building RESTful Hypermedia APIs but recently, he's been working with the exciting WebRTC technology; as a Google Developer Expert in WebRTC his mission is to get more developers looking at and using the technology.</p>",
+        "role" : "CEO at Nimble Ape Ltd",
         "room" : "200C",
         "klass": "iot"
       }
@@ -172,7 +172,6 @@
         "keywords" : "Akka, Microservices, State",
         "about" : "<p>Although most microservices are stateless - they delegate things like persistence and consistency to a database or external storage. But sometimes you benefit when you keep the state inside the application. In this talk I’m going to discuss why you want to build stateful microservices and design choices to make. I’ll use Akka framework and explain tools like Akka Clustering and Akka Persistence in depth and show a few practical examples.</p>",
         "bio" : "<p>Yaroslav Tkachenko is a software engineer interested in distributed systems, microservices, modern cloud infrastructure and DevOps practices. Currently Yaroslav is a Senior Software Engineer at Demonware (Activision), working on a large-scale data pipeline.</p>
-
         <p>Prior to joining Demonware he spent some time at Mobify, leading the new Platform team. Yaroslav was responsible for developing, delivering and maintaining various platform components. He also worked on improvements for the realtime analytics pipeline.</p>
 
         <p>Before that Yaroslav held multiple roles at Bench Accounting (the most recent one being the Director of Engineering). He joined the company as a first employee (and a first full-time Software Engineer) and helped to grow the engineering team from 3 to almost 30 people.</p>
@@ -337,14 +336,16 @@
     ],
     "1:00-1:45" : [
       {
-        "key" : "tba",
-        "title": "TBA",
-        "speaker": "",
-        "keywords" : "",
-        "about" : "",
-        "bio" : "",
+        "key" : "robyn",
+        "title": "Down the SVG Rabbit Hole",
+        "speaker": "Robyn Larsen",
+        "keywords" : "SVG, CSS, Animation",
+        "about" : "<p>We use Scalable Vector Graphics (SVGs) every day, but how well do we really understand it? More often than not, we are merely scratching the surface of a large and complicated discipline. Most developers and designers don’t realize how powerful and useful SVGs are, you will be surprised at how deep the rabbit hole goes.</p>",
+        "bio" : "<p>Robyn Larsen is a former nuclear engineer turned front-end developer, entrepreneur, and speaker. Robyn is also an active community member who advises numerous startups across multiple industries and frequently mentors women in tech and STEM. She is a member of the Technical Advisory Group (TAG) with Microsoft and serves on multiple nonprofit boards. Her tools of choice are product strategy, responsive design, HTML5, CSS3, SVGs and JavaScript. You can find her flying between San Francisco, Toronto and Alberta for client work and surfing waves in Central America during her spare time.
+</p>",
+        "role" : "Front End Developer at Phuse",
         "room" : "206AB",
-        "klass": "fea"
+        "klass": "fec"
       },
       {
         "key" : "arthur",
