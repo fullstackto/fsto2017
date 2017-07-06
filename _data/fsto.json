@@ -73,10 +73,10 @@
       {
         "key" : "sage",
         "title": "UX Design for V/A/M Reality",
-        "speaker": "TBA",
-        "keywords" : "TBA",
+        "speaker": "Sage Franch",
+        "keywords" : "Augmented Reality, Virtual Reality, Mixed Reality",
         "about" : "<p>With virtual, augmented, and mixed reality (collectively referred to as x-reality or xR), we have the ability to build entirely new realms not bound by the laws of the physical world. The tricky bit is making realities that users actually want to experience! In this talk, we'll explore best practices for designing enticing immersive experiences for the reality spectrum.</p>",
-        "bio" : "<p>Sage Franch is a Technical Evangelist at Microsoft Canada, developer of holograms and chatbots, and founder of tech lifestyle blog Trendy Techie. Sage specializes in mixed reality computing, cognitive machines, and conversational AI. Her current work includes furthering the use of xR in academic environments and as a tool for remote communication and collaboration.  Prior to this role Sage was a Content Developer at Microsoft Learning Experiences, where she created highly technical online training courses for app development with the Universal Windows Platform. Known internationally as ""the Trendy Techie,"" Sage has been recognized for her work with diversity and inclusion in technical fields and STEM education. It is her mission to empower others to build the future with technology. Connect with Sage on Twitter and Instagram, @theTrendyTechie.</p>",
+        "bio" : "<p>Sage Franch is a Technical Evangelist at Microsoft Canada, developer of holograms and chatbots, and founder of tech lifestyle blog Trendy Techie. Sage specializes in mixed reality computing, cognitive machines, and conversational AI. Her current work includes furthering the use of xR in academic environments and as a tool for remote communication and collaboration.  Prior to this role Sage was a Content Developer at Microsoft Learning Experiences, where she created highly technical online training courses for app development with the Universal Windows Platform. Known internationally as 'the Trendy Techie,' Sage has been recognized for her work with diversity and inclusion in technical fields and STEM education. It is her mission to empower others to build the future with technology. Connect with Sage on Twitter and Instagram, @theTrendyTechie.</p>",
         "role": "Technical Evangelist at Microsoft",
         "room" : "200C",
         "klass": "ux"
