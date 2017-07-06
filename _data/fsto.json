@@ -71,13 +71,13 @@
         "klass": "bec"
       },
       {
-        "key" : "tba",
-        "title": "TBA",
+        "key" : "sage",
+        "title": "UX Design for V/A/M Reality",
         "speaker": "TBA",
         "keywords" : "TBA",
-        "about" : "TBA",
-        "bio" : "<p>TBA</p>",
-        "role": "TBA",
+        "about" : "<p>With virtual, augmented, and mixed reality (collectively referred to as x-reality or xR), we have the ability to build entirely new realms not bound by the laws of the physical world. The tricky bit is making realities that users actually want to experience! In this talk, we'll explore best practices for designing enticing immersive experiences for the reality spectrum.</p>",
+        "bio" : "<p>Sage Franch is a Technical Evangelist at Microsoft Canada, developer of holograms and chatbots, and founder of tech lifestyle blog Trendy Techie. Sage specializes in mixed reality computing, cognitive machines, and conversational AI. Her current work includes furthering the use of xR in academic environments and as a tool for remote communication and collaboration.  Prior to this role Sage was a Content Developer at Microsoft Learning Experiences, where she created highly technical online training courses for app development with the Universal Windows Platform. Known internationally as ""the Trendy Techie,"" Sage has been recognized for her work with diversity and inclusion in technical fields and STEM education. It is her mission to empower others to build the future with technology. Connect with Sage on Twitter and Instagram, @theTrendyTechie.</p>",
+        "role": "Technical Evangelist at Microsoft",
         "room" : "200C",
         "klass": "ux"
       }
@@ -107,7 +107,7 @@
       },
       {
         "key" : "tba",
-        "title": "Tba",
+        "title": "A UX Talk TBA",
         "speaker": "",
         "keywords" : "",
         "about" : "",
@@ -143,7 +143,7 @@
       },
       {
         "key" : "dan",
-        "title": "Sensors bring all the boys to the yard.",
+        "title": "My Sensors Bring All the Peeps to the Yard.",
         "speaker": "Dan Jenkins",
         "keywords" : "Internet of Things, Sensors, JavaScript",
         "about" : "<p>Automating your home or office is easier than ever before. It can be done today using free, open source software and sensors. Placing all the right blocks together can be difficult but not if you're given a push in the right direction. Stop turning on that light at the same time every day - make a machine do it for you.</p>",
@@ -206,14 +206,15 @@
         "klass": "fea"
       },
       {
-        "key" : "tba",
-        "title": "Submit a Server Side Talk",
-        "speaker": "",
-        "keywords" : "",
-        "about" : "",
-        "bio" : "",
+        "key" : "kirsten",
+        "title": "Harnessing the Power of the Cloud Through CLIs",
+        "speaker": "Kirsten Hunter",
+        "keywords" : "Cloud, Command Line, DevOps",
+        "about" : "<p>Once upon a time, command line interfaces ruled the world. After a long dry spell, they’re back, here to help us automate and integrate cloud services. Come learn about the CLIs available for various cloud products and the lessons we learned when creating our own. Learn to harness the power of the cloud without writing any code.</p>",
+        "bio" : "<p>Kirsten Hunter is an unapologetic hacker and passionate advocate for the development community. Her technical interests range from graph databases to cloud services, and her experience supporting and evangelizing REST APIs has given her a unique perspective on developer success. In her copious free time she’s a gamer, fantasy reader, and all around rabble-rouser. Code samples, recipes, and philosophical musings can be found on her website at http://www.princesspolymath.com</p>",
+        "role" : "API Evangelist at Akamai",
         "room" : "206CD",
-        "klass": "bec"
+        "klass": "bea"
       },
       {
         "key" : "cordelia",
