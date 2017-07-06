@@ -40,9 +40,9 @@
         "title": "UX of Voice Interfaces",
         "speaker": "Hira Javed",
         "keywords" : "UX, Voice",
-        "about" : "TBA",
-        "bio" : "<p>Hira is a Usability Specialist, she conducts UX research to inform product decisions from conception to post-launch. Hira has also been teaching at the University of Waterloo since 2012, where she created the curriculum for a required UX Design course as part of the Global Business and Digital Arts program. Her research interests includes digital memory, online communities, ephemeral messaging and gamification.</p>",
-        "role" : "UX at ScotiaBank",
+        "about" : "<p>Alexa, Siri and Google Now are indicative of the fact that as a society we are becoming more and more comfortable with interacting with our tech through voice. No longer mediated by visual elements like links, buttons, levers and sliders, our conversations with machines are becoming more natural and human (or at least we hope!). This creates an interesting design challenge. In the absence of visuals, words matter more than ever. The choice of words and how they are strung together to create meaningful conversations requires a deep understanding of the user’s motivation, intentions and expectations. This talk will focus on how the principles of human communications can be applied to the design of natural and intuitive voice interfaces.</p>",
+        "bio" : "<p>Hira is a Design Strategist at Scotiabank's Digital Factory where she helps teams understand their users and make informed design decisions. She was formerly at the Canadian Broadcasting Corporation (CBC) where she led the UX research practice in the Digital Operations department. As an in-house usability consultant for CBC TV, CBC Music, Kids’ CBC, CBC News, CBC Sports and CBC Radio, Hira conducted UX research to inform product decisions from conception to post-launch.</p>",
+        "role" : "Design Strategist at ScotiaBank",
         "room" : "200C",
         "klass": "ux"
       }
