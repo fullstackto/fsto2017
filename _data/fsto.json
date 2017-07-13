@@ -247,11 +247,12 @@
       },
       {
         "key" : "tba",
-        "title": "Submit a Server Side Talk",
+        "title": "A Algorithms Talk TBA",
         "speaker": "",
         "keywords" : "",
         "about" : "",
         "bio" : "",
+        "role": "",
         "room" : "206CD",
         "klass": "bea"
       },
@@ -326,7 +327,7 @@
       },
       {
         "key" : "tba",
-        "title": "TBA",
+        "title": "A Talk on IoT and AI TBA",
         "speaker": "",
         "keywords" : "",
         "about" : "",
@@ -386,11 +387,12 @@
       },
       {
         "key" : "tba",
-        "title": "Submit a Server Side Talk",
+        "title": "A Talk on OpenData and APIs for Change TBA",
         "speaker": "",
         "keywords" : "",
         "about" : "",
         "bio" : "",
+        "role": "",
         "room" : "206CD",
         "klass": "bec"
       },
