@@ -246,13 +246,13 @@
         "klass": "fec"
       },
       {
-        "key" : "tba",
-        "title": "A Algorithms Talk TBA",
-        "speaker": "",
-        "keywords" : "",
-        "about" : "",
-        "bio" : "",
-        "role": "",
+        "key" : "elle",
+        "title": "Algorithms to live by and why should we care",
+        "speaker": "Elle Meredith",
+        "keywords" : "Computer Science, Algorithms",
+        "about" : "<p>Algorithmic thinking in everyday life in language we can all understand. Learn techniques for solving problems, without all the mathematics jargon. We will explore widely applicable algorithms, and how they reveal themselves in our everyday lives, so that we better understand when we can use them in our programs. These stories will help us approach challenges, and make more educated decisions on what algorithms to use, when, and where.</p>",
+        "bio" : "<p>Elle works as a consultant for Blackmill. Before Blackmill, she was a Development Director in the New York City office of thoughtbot. She believes in writing clean code, driven by automatic tests, with agile practices, an even work/life balance, and a respectful and inclusive team culture. She constantly works to improve her understanding of technologies, techniques, anti-patterns, and what is considered best practice.</p>",
+        "role": "Consultant at Blackmill",
         "room" : "206CD",
         "klass": "bea"
       },
