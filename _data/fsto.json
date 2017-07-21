@@ -106,12 +106,13 @@
         "klass": "bea"
       },
       {
-        "key" : "tba",
-        "title": "A UX Talk TBA",
-        "speaker": "",
-        "keywords" : "",
-        "about" : "",
-        "bio" : "",
+        "key" : "jenn",
+        "title": "Accessing Accessible Accessibility",
+        "speaker": "Jennifer Wong",
+        "keywords" : "Accesibility, Code for Cood, Testing",
+        "about" : "<p>The World Health Organization states that one billion people live with disabilities. And estimates put internet usage with a screen reader as high as 3.4% of all internet traffic around the world. Web accessibility can help. So what is web accessibility and who needs it? Is engineering accessibility enough? How do you build an cross-functional accessibility culture? And what can you do to prevent accessibility regressions? I had all the same questions… and only four months to guarantee all our consumer user flows were accessible. Well, what happened? Come learn what it takes to lead a web accessibility movement within your company!</p>",
+        "bio" : "<p>Jennifer Wong is a self-taught software engineer at Eventbrite where she spends her days making the web a prettier and more user-friendly place. She has written for Net Magazine and had projects covered by Mashable, Engadget, Gizmodo, and more. Jenn is an avid conference speaker and loves eating, coding, and sleeping.</p>",
+        "role" : "Software Engineer at Eventbrite",
         "room" : "200C",
         "klass": "ux"
       }
@@ -122,8 +123,7 @@
         "title": "Node.js server side rendering in the Age of APIs",
         "speaker": "Ruy Adorno",
         "keywords" : "Node.js, API, Microservices",
-        "about" : "<p>With the increasing popularity of Universal JavaScript and microservices, more and more front-end developers are taking ownership of their server-side render using Node.js.</p>
-        <p>In this talk we'll see how leveraging APIs in both server and client side is giving birth to new libraries and frameworks and what is the role of a front end developer in this post-full stack world.</p>",
+        "about" : "<p>With the increasing popularity of Universal JavaScript and microservices, more and more front-end developers are taking ownership of their server-side render using Node.js.</p><p>In this talk we'll see how leveraging APIs in both server and client side is giving birth to new libraries and frameworks and what is the role of a front end developer in this post-full stack world.</p>",
         "bio" : "<p>Ruy Adorno is a Front-End Developer with more than 10 years of experience working with the web and the many versions of ECMAScript. Also an avid open source user and contributor.</p>",
         "role": "Senior Front-End Developer at AppDirect",
         "room" : "206AB",
@@ -134,9 +134,7 @@
         "title": "A Search Index is Not a Database Index",
         "speaker": "Toria Gibbs",
         "keywords" : "Databases, Performance, SQL",
-        "about" : "<p>A search engine is not a database. Search systems are optimized for fast search using an internal data structure called an inverted index. Databases have a similar feature to allow quick access, also called an index, but it’s a totally different thing!</p>
-
-        <p>In this talk, Toria Gibbs will take you on a tour of the internals of a search index, comparing it to common implementations of indexing in relational databases. We’ll see how search engines can outperform databases and discuss the tradeoffs in implementing and maintaining such a system. No prior knowledge of database or search index implementations required; experience creating or querying database tables will be helpful.</p>",
+        "about" : "<p>A search engine is not a database. Search systems are optimized for fast search using an internal data structure called an inverted index. Databases have a similar feature to allow quick access, also called an index, but it’s a totally different thing!</p><p>In this talk, Toria Gibbs will take you on a tour of the internals of a search index, comparing it to common implementations of indexing in relational databases. We’ll see how search engines can outperform databases and discuss the tradeoffs in implementing and maintaining such a system. No prior knowledge of database or search index implementations required; experience creating or querying database tables will be helpful.</p>",
         "bio" : "<p>Toria Gibbs is a Senior Software Engineer working on Search Infrastructure at Etsy. She's interested in infrastructure development, distributed systems, and information retrieval (including databases and search systems). Toria holds a computer science degree from the University of Waterloo. In her spare time, Toria bakes desserts for her blog and plays flag football.</p>",
         "room" : "206CD",
         "klass": "bec"
@@ -171,12 +169,7 @@
         "speaker": "Yaroslav Tkachenko",
         "keywords" : "Akka, Microservices, State",
         "about" : "<p>Although most microservices are stateless - they delegate things like persistence and consistency to a database or external storage. But sometimes you benefit when you keep the state inside the application. In this talk I’m going to discuss why you want to build stateful microservices and design choices to make. I’ll use Akka framework and explain tools like Akka Clustering and Akka Persistence in depth and show a few practical examples.</p>",
-        "bio" : "<p>Yaroslav Tkachenko is a software engineer interested in distributed systems, microservices, modern cloud infrastructure and DevOps practices. Currently Yaroslav is a Senior Software Engineer at Demonware (Activision), working on a large-scale data pipeline.</p>
-        <p>Prior to joining Demonware he spent some time at Mobify, leading the new Platform team. Yaroslav was responsible for developing, delivering and maintaining various platform components. He also worked on improvements for the realtime analytics pipeline.</p>
-
-        <p>Before that Yaroslav held multiple roles at Bench Accounting (the most recent one being the Director of Engineering). He joined the company as a first employee (and a first full-time Software Engineer) and helped to grow the engineering team from 3 to almost 30 people.</p>
-
-        <p>At Bench Yaroslav worked with Platform and Integrations teams and was mostly focused on designing and implementing microservices architecture, building platform services, cloud infrastructure and contributing to the DevOps tooling.</p>",
+        "bio" : "<p>Yaroslav Tkachenko is a software engineer interested in distributed systems, microservices, modern cloud infrastructure and DevOps practices. Currently Yaroslav is a Senior Software Engineer at Demonware (Activision), working on a large-scale data pipeline.</p><p>Prior to joining Demonware he spent some time at Mobify, leading the new Platform team. Yaroslav was responsible for developing, delivering and maintaining various platform components. He also worked on improvements for the realtime analytics pipeline.</p><p>Before that Yaroslav held multiple roles at Bench Accounting (the most recent one being the Director of Engineering). He joined the company as a first employee (and a first full-time Software Engineer) and helped to grow the engineering team from 3 to almost 30 people.</p><p>At Bench Yaroslav worked with Platform and Integrations teams and was mostly focused on designing and implementing microservices architecture, building platform services, cloud infrastructure and contributing to the DevOps tooling.</p>",
         "role": "Senior Software Engineer at Demonware (Activision)",
         "room" : "206CD",
         "klass": "bea"
@@ -222,12 +215,8 @@
         "speaker": "B Cordelia Yu",
         "role": "Content &amp; Editorial Strategist at A Yellow Raven",
         "keywords" : "Inclusion, Team Building, Strategy",
-        "about" : "<p>The most engaging social media plan or the most inclusive style guide fails if the product is not also accessible. That is why content strategists who care about inclusivity must be at the table to help shape product strategy and business decisions.</p>
-
-        <p>Come hear the lessons from a multi-year effort to help a major national environmental nonprofit—an industry that is both centered around justice and still grappling with its legacy of discrimination—make its programs more inclusive of marginalized communities, as a part of modernizing its editorial, publishing, and programatic processes.</p>",
-        "bio" : "<p>Bernard Cordelia Yu is a(n) strategist at the intersection of scholarship, social justice, and policy. They help align organizational, editorial, and product processes in social and environmental justice to make knowledge accessible and inclusive. They love building inclusive spaces to build inclusive teams to build inclusive products to build inclusive communities.
-
-        <p>B Cordelia believes that, like in martial arts, the surest path to rapid response times in any campaign is good preparation and training. Their pronouns are they, them, and their.</p>",
+        "about" : "<p>The most engaging social media plan or the most inclusive style guide fails if the product is not also accessible. That is why content strategists who care about inclusivity must be at the table to help shape product strategy and business decisions.</p><p>Come hear the lessons from a multi-year effort to help a major national environmental nonprofit—an industry that is both centered around justice and still grappling with its legacy of discrimination—make its programs more inclusive of marginalized communities, as a part of modernizing its editorial, publishing, and programatic processes.</p>",
+        "bio" : "<p>Bernard Cordelia Yu is a(n) strategist at the intersection of scholarship, social justice, and policy. They help align organizational, editorial, and product processes in social and environmental justice to make knowledge accessible and inclusive. They love building inclusive spaces to build inclusive teams to build inclusive products to build inclusive communities.</p><p>B Cordelia believes that, like in martial arts, the surest path to rapid response times in any campaign is good preparation and training. Their pronouns are they, them, and their.</p>",
         "room" : "200C",
         "klass": "ts"
       }
@@ -326,12 +315,13 @@
         "klass": "bea"
       },
       {
-        "key" : "tba",
-        "title": "A Talk on IoT and AI TBA",
-        "speaker": "",
-        "keywords" : "",
-        "about" : "",
-        "bio" : "",
+        "key" : "karina",
+        "title": "Combining AI and IoT. New Industrial Revolution",
+        "speaker": "Karina Popova",
+        "keywords" : "AI, IoT",
+        "about" : "<p>Artificial Intelligence (AI) will be more important in making sense of data streamed in from Internet of Things (IoT) devices. What will happen when we will learn how to combine AI & IoT? </p>",
+        "bio" : "<p>My short BIO: Karina is a well-known woman in tech, an experienced developer and an international speaker with the Trust of The Audience Award in 2016. She has been worked as Developer Lead last 10 years. She has confident communication, leadership skills across different levels, developed through international professional interaction and engagements with representatives of various government institutions or IT companies using agile environment across the world. Her social responsibility and communicative competence are demonstrated in the organization of professional networks, events and conferences. At the same time she gained public speaking skills through frequent academic presentations, workshops and participation as a speaker at IoT and DevOps conferences. </p>",
+        "role": "Head of Development at LINK Mobility GmbH",
         "room" : "200C",
         "klass": "iot"
       }
@@ -343,8 +333,7 @@
         "speaker": "Robyn Larsen",
         "keywords" : "SVG, CSS, Animation",
         "about" : "<p>We use Scalable Vector Graphics (SVGs) every day, but how well do we really understand it? More often than not, we are merely scratching the surface of a large and complicated discipline. Most developers and designers don’t realize how powerful and useful SVGs are, you will be surprised at how deep the rabbit hole goes.</p>",
-        "bio" : "<p>Robyn Larsen is a former nuclear engineer turned front-end developer, entrepreneur, and speaker. Robyn is also an active community member who advises numerous startups across multiple industries and frequently mentors women in tech and STEM. She is a member of the Technical Advisory Group (TAG) with Microsoft and serves on multiple nonprofit boards. Her tools of choice are product strategy, responsive design, HTML5, CSS3, SVGs and JavaScript. You can find her flying between San Francisco, Toronto and Alberta for client work and surfing waves in Central America during her spare time.
-</p>",
+        "bio" : "<p>Robyn Larsen is a former nuclear engineer turned front-end developer, entrepreneur, and speaker. Robyn is also an active community member who advises numerous startups across multiple industries and frequently mentors women in tech and STEM. She is a member of the Technical Advisory Group (TAG) with Microsoft and serves on multiple nonprofit boards. Her tools of choice are product strategy, responsive design, HTML5, CSS3, SVGs and JavaScript. You can find her flying between San Francisco, Toronto and Alberta for client work and surfing waves in Central America during her spare time.</p>",
         "role" : "Front End Developer at Phuse",
         "room" : "206AB",
         "klass": "fec"
@@ -378,23 +367,11 @@
         "title": "In DevTools We Trust",
         "speaker": "Henri Helvetica",
         "keywords" : "Performance, Monitoring, Code Tools",
-        "about" : "<p>The modern developer workflow often starts with authoring a simple SPA, followed by a live push, but often concludes with a bottleneck discovery. With near certainty, the application was not tested, despite the availability of a testing tool a keystroke away: option-command-I bka Developer Tools.
-        <p>‘In DevTools We Trust’ will equip developers with the capacity to correctly conduct application analysis, and provide solutions in the dissolution of performance bottlenecks.</p>",
+        "about" : "<p>The modern developer workflow often starts with authoring a simple SPA, followed by a live push, but often concludes with a bottleneck discovery. With near certainty, the application was not tested, despite the availability of a testing tool a keystroke away: option-command-I bka Developer Tools.</p><p>‘In DevTools We Trust’ will equip developers with the capacity to correctly conduct application analysis, and provide solutions in the dissolution of performance bottlenecks.</p>",
         "bio" : "<p>Henri is a freelance developer who has turned his interests to a macédoine of site performance engineering with pinches of user experience. When not reading the deluge of daily research docs and case studies, or indiscriminately auditing sites in devtools, Henri can be found contributing back to the community, co-programming meetups including the Toronto Web Performance Group or volunteering his time for lunch and learns at various bootcamps. Otherwise, he’s tooling with music production software or with near certainty training and focusing on running the fastest 5k possible. </p>",
         "role": "Freelancer",
         "room" : "206AB",
         "klass": "fec"
-      },
-      {
-        "key" : "tba",
-        "title": "A Talk on OpenData and APIs for Change TBA",
-        "speaker": "",
-        "keywords" : "",
-        "about" : "",
-        "bio" : "",
-        "role": "",
-        "room" : "206CD",
-        "klass": "bec"
       },
       {
         "key" : "ole",
@@ -404,15 +381,26 @@
         "about" : "<p>With Elixir you get all the power of Erlang and it’s hardened frameworks and libraries like OTP and cowboy with a Ruby-esque syntax. When WhatsApp was sold to Facebook, everyone was talking about Erlang. Everyone wanted to know how it was possible to build such a resilient and highly scalable system. With hot code swapping, the BEAM Machine allows zero downtime deployments and gives you highly available systems.</p>",
         "bio" : "<p>Ole Michaelis is the co-founder of SoCoded, a hackfest and web development conference in Hamburg. He’s a Software Engineer working for DNSimple making Domain Automation a breeze. In his free time, he’s building slidr.io, a hazzle-free slide sharing platform. Ole is passionate about open source software, enjoys traveling, and loves Mexican food. He classifies himself as a 'bad' German as he dislikes beer and soccer – the traditional German past-times. </p>",
         "role": "Senior Software Engineer at DNSimple",
-        "room" : "200C",
+        "room" : "206CD",
         "klass": "new"
+      },
+      {
+        "key" : "shanta",
+        "title": "Coding for the Greater Good - An Affordable REST",
+        "speaker": "Shanta Nathwani",
+        "keywords" : "API, REST, Code for Good",
+        "about" : "<p>There are more than 170,000 households on the waiting list for subsidized housing in the City of Toronto. Location isn't the primary search function, yet the website for Toronto Community Housing and the open data don't address some of the most crucial pieces of information needed for people to find housing: size of the unit (i.e., number of bedrooms) and speciality (i.e., accessibility or seniors residence). This talk shows the shortfalls of both of these sources and shows how I turned both of these on their heads, and was able to present this data on a nicely designed, accessible and mobile friendly front-end, all while making the data available through an API, using scraped and mock data in a week as a student. Think of how much money the City of Toronto could save and how much better the search for subsidized housing could be?</p>",
+        "bio" : "<p>Shanta is an Instructor in Web Design at Sheridan College and a recent graduate from BrainStation Toronto in their Full Time Web Development program as a Full Stack Web Developer. She has a passion for Open Data and coding for the greater good.</p>",
+        "role": "Instructor at Sheridan College",
+        "room" : "200c",
+        "klass": "bec"
       }
     ],
     "3:00-3:45" : [
       {
         "key" : "jana",
         "title": "Conversing with ES2015 and Generators",
-        "speaker": "",
+        "speaker": "Jana Beck",
         "keywords" : "ES2015, Code Patterns, Functional",
         "about" : "<p>JavaScript got generator functions in ES2015, but perhaps—unlike other ES2015 features like `const`, computed property names, and arrow functions—you haven’t used them yet. The disruption of the “normal” control flow that occurs with generators can feel a bit like turning your brain inside-out, but generators are definitely useful. In this talk, we’ll seek to understand generators through the metaphor of conversation, modeling the relationship between a generator function and its calling context as a turn-taking relationship, just like a (good) conversation so that JavaScript can provide not just our livelihood but our therapy too.</p>",
         "bio" : "<p>Jana Beck is a coffee-fueled engineer at a small open-source and not-for-profit startup called Tidepool, based in the Bay Area of California but with developers on three continents. Tidepool's mission is to reduce the burden of type 1 diabetes through data technology, and Jana works mostly on Tidepool's front-end stack (React with Redux; D3 for data visualization). When she's not coding or sleeping, there's a high probability that Jana is sweating in a gym or a dance studio.</p>",
@@ -437,11 +425,7 @@
         "speaker": "Marisa Morby",
         "keywords" : "Big Data, UX",
         "about" : "<p>What makes people buy something online? Is it the color of a button, the words in the headline, or eye-catching design? Big data tells us that if we get the right combination of these things, we'll see a huge uptick in sales. But what it doesn't account for is the individual. Because each person that clicks buy has a much larger story to tell.</p>",
-        "bio" : "<p>Marisa Morby has a background in User Experience copywriting, and marketing. She specializes in digital optimization, user research, and user experience flow for web and mobile applications.
-
-        She's worked with clients to create a more personal approach to marketing, used data to optimize businesses, and helped her clients connect with customers on a human level.
-
-        When she's not writing or reading about psychology, she can be found in the wild doing all sorts of things like: eating her way around the world, perfecting a chocolate chip cookie recipe, or sitting in the park doing some serious people watching.</p>",
+        "bio" : "<p>Marisa Morby has a background in User Experience copywriting, and marketing. She specializes in digital optimization, user research, and user experience flow for web and mobile applications. She's worked with clients to create a more personal approach to marketing, used data to optimize businesses, and helped her clients connect with customers on a human level. When she's not writing or reading about psychology, she can be found in the wild doing all sorts of things like: eating her way around the world, perfecting a chocolate chip cookie recipe, or sitting in the park doing some serious people watching.</p>",
         "role":"Optimization Director at Clearhead",
         "room" : "200C",
         "klass": "ux"
