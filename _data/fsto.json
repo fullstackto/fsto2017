@@ -98,7 +98,7 @@
         "key" : "sam",
         "title": "One Data Pipeline to Rule Them All",
         "speaker": "Sam Kitajima-Kimbrel",
-        "keywords" : "Building systems and products at less-than-Google scale",
+        "keywords" : "Bowerbirds of Technology: Architecture and Operations at Less-Than-Google Scale",
         "about" : "<p>While aspiring to Google scale is great, if you try to build for it too early you will lose time and effort that could be used building features and supporting the users you do have. This talk will go into depth on how to evaluate, choose, and deploy technology to meet your customers’ requirements without requiring a small army of engineers to answer 2 AM pages. We’ll go through what you should think about when picking open-source systems (as well as hosted PaaS/IaaS/SaaS providers) to meet your needs: maintainership, extensibility, security, stability, and more. We'll also talk about how to pick realistic goals for your project and business: what are the implications of claiming five nines for the person carrying the pager? How will you communicate with your customers when you’re throwing errors and breaking SLAs? What does disaster recovery mean for your systems, and how much effort will it require to implement and test your DR plan (ahead of time!)?
 </p>",
         "bio" : "<p>Sam Kitajima-Kimbrel is a software engineer with many feels about healthy teams, distributed systems, and data storage. Sam has a different hair color every month, enjoys cycling and cooking, and resides in the San Francisco Bay Area with his husband Kameron and their dogs Basil and Mochi.</p>",
