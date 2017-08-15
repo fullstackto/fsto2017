@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Speaker Bios
+title: A Diverse Speaker Lineup!
+card: http://2017.fsto.co/images/card.jpg
 ---
 <section>
   <article class="container">
@@ -26,7 +27,7 @@ title: Speaker Bios
         {% for speaker in times[1] %}
         <div class="col-sm-6 speaker" id="{{speaker.key}}">
             <img src="/images/speakers/{{speaker.key}}.jpg" alt="{{speaker.name}} Photo" width="150" class="pull-left" />
-            <h4>About {{speaker.speaker}}</h4>
+            <h4>About {{speaker.speakert}}</h4>
             <h5>{{speaker.role}}</h5>
             <p>Session: <a href="/sessions#{{speaker.key}}">{{speaker.title}}</a></p>
             {{speaker.bio}}
