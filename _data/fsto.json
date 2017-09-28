@@ -226,12 +226,12 @@
   "24" : {
     "9:30-10:15" : [
       {
-        "key" : "luke",
-        "title": "Fantastic Types and Where To Use Them",
-        "speaker": "Luke Westby",
-        "keywords" : "Types, Code Patterns",
-        "about" : "<p>You can be a functional programmer! And if you're building JavaScript apps, there's a good chance you already are. FP in languages like Haskell is about finding common ground with principles in math that let us talk about how all our different and diverse code works using a universal (isomorphic?) vocabulary. And since JavaScript comes with so much flexibility we can do the same thing on the client if only we take some time to learn the patterns. Join me for this talk and I'll teach you what things like Functors and Monads are, when to use them, and what you get as a reward for doing so.</p>",
-        "bio" : "<p>Luke is the cofounder and a partner at HumbleSpark located in Chicago, IL, USA. Luke is an active member of the Elm community, helping to maintain several open source packages including elm-lang/core and elm-http-builder. Luke loves contributing to the Elm community by speaking about the language, answering questions in the Elm Slack, writing blog posts, and organizing the Chicago Elm Meetup. When Luke isn't thinking about code he likes to play the guitar, speed-run Metroid Fusion, and watch far too much TV with his fiancée.</p>",
+        "key" : "tba",
+        "title": "TBA",
+        "speaker": "TBA",
+        "keywords" : "TBA",
+        "about" : "<p>TBA</p>",
+        "bio" : "<p>TBA</a>",
         "room" : "206AB",
         "klass": "fec"
       },
@@ -260,13 +260,13 @@
     ],
     "10:30-11:15" : [
       {
-        "key" : "dana",
-        "title": "Oh Behave!: BDD with Cucumber",
-        "speaker": "Dana Scheider",
-        "keywords" : "BDD, Cucumber, Testing",
-        "about" : "  <p>Cucumber is a powerful and versatile tool for collaboration and testing, but many developers don’t know how best to incorporate it into their workflows. In this talk, Dana Scheider of the Cucumber Core Team will show you how to supercharge your products and processes with Behaviour Driven Development and Cucumber.</p>",
-        "bio" : "<p>Dana Scheider is a member of the Cucumber core team and lead author of Rambo, a contract testing tool for Ruby. She is particularly interested in testing, REST API design, and improving processes within engineering organizations.</p>",
-        "role": "BDD Evangelist at HealthSparq",
+        "key" : "tba",
+        "title": "TBA",
+        "speaker": "TBA",
+        "keywords" : "TBA",
+        "about" : "  <p>TBA</p>",
+        "bio" : "<p>TBA</p>",
+        "role": "TBA",
         "room" : "206AB",
         "klass": "fea"
       },
