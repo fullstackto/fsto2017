@@ -226,12 +226,13 @@
   "24" : {
     "9:30-10:15" : [
       {
-        "key" : "tba",
-        "title": "TBA",
-        "speaker": "TBA",
-        "keywords" : "TBA",
-        "about" : "<p>TBA</p>",
-        "bio" : "<p>TBA</a>",
+        "key" : "hasan",
+        "title": "Designing Voice Powered User Experiences for JavaScript Applications",
+        "speaker": "Hasan Ahmad",
+        "keywords" : "Voice, UX, JavaScript",
+        "about" : "<p>As mobile and web applications continue to evolve into broader domains such as wearables and home appliances, voice based user interaction is becoming critical to new products. Advances in speech recognition technology are starting to be utilized by application developers and designers to provide click-free and hands-free user experiences. This talk will explore how Voice and Speech recognition APIs are being made available to JavaScript applications, that run on web and mobile devices.</p>",
+        "bio" : "<p>Hasan Ahmad is a Senior Consultant at DEV6 where he develops front-end web applications for large enterprise clients of DEV6. He also builds, maintains and instructs courses at DEV6, related to front-end web application development. Hasan has built mobile and web applications for clients in a variety of industries, including healthcare, building management, finance, telecom, automotive and retail. Hasan leads the Toronto chapter of Developer Circles by Facebook, an online and offline accessible community for app developers in Toronto to learn and share their experiences building on top of the Facebook platform. </a>",
+        "role" : "Senior Consultant at Dev6",
         "room" : "206AB",
         "klass": "fec"
       },
