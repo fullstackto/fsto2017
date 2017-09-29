@@ -82,6 +82,19 @@
         "klass": "ux"
       }
     ],
+    "12:30-1:00" : [
+      {
+        "key" : "tba",
+        "title": "Lunch & Learn Presented by Microsoft",
+        "speaker": "tba",
+        "keywords" : "TBA",
+        "about" : "<p>TBA</p>",
+        "bio" : "<p>TBA</p>",
+        "role": "Software Developer at Microsoft",
+        "room" : "206AB",
+        "klass": "full"
+      },
+    ],
     "1:00-1:45" : [
       {
         "key" : "jason",
@@ -327,6 +340,19 @@
         "room" : "200C",
         "klass": "iot"
       }
+    ],
+    "12:30-1:00" : [
+      {
+        "key" : "tba",
+        "title": "Lunch & Learn Presented by Microsoft",
+        "speaker": "tba",
+        "keywords" : "TBA",
+        "about" : "<p>TBA</p>",
+        "bio" : "<p>TBA</p>",
+        "role": "Software Developer at Microsoft",
+        "room" : "206CD",
+        "klass": "full"
+      },
     ],
     "1:00-1:45" : [
       {
