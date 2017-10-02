@@ -431,8 +431,8 @@
         "speaker": "Jana Beck",
         "keywords" : "ES2015, Code Patterns, Functional",
         "about" : "<p>JavaScript got generator functions in ES2015, but perhaps—unlike other ES2015 features like `const`, computed property names, and arrow functions—you haven’t used them yet. The disruption of the “normal” control flow that occurs with generators can feel a bit like turning your brain inside-out, but generators are definitely useful. In this talk, we’ll seek to understand generators through the metaphor of conversation, modeling the relationship between a generator function and its calling context as a turn-taking relationship, just like a (good) conversation so that JavaScript can provide not just our livelihood but our therapy too.</p>",
-        "bio" : "<p>Jana Beck is a coffee-fueled engineer at a small open-source and not-for-profit startup called Tidepool, based in the Bay Area of California but with developers on three continents. Tidepool's mission is to reduce the burden of type 1 diabetes through data technology, and Jana works mostly on Tidepool's front-end stack (React with Redux; D3 for data visualization). When she's not coding or sleeping, there's a high probability that Jana is sweating in a gym or a dance studio.</p>",
-        "role": "Software Engineer at Tidepool",
+        "bio" : "<p>Jana took the long road to web development with a significant delay as a Ph.D. candidate in linguistics doing a lot of scientific computing in Python. Today she creates data visualization applications and tools, typically with a stack including D3, React, and Redux. When she's not coding or sleeping, there's a high probability that Jana is sweating in a dance studio or a gym.</p>",
+        "role": "Dataviz Engineer at Stitch Fix",
         "room" : "206AB",
         "klass": "fec"
       },
