@@ -139,7 +139,7 @@
         "keywords" : "Node.js, API, Microservices",
         "about" : "<p>With the increasing popularity of Universal JavaScript and microservices, more and more front-end developers are taking ownership of their server-side render using Node.js.</p><p>In this talk we'll see how leveraging APIs in both server and client side is giving birth to new libraries and frameworks and what is the role of a front end developer in this post-full stack world.</p>",
         "bio" : "<p>Ruy Adorno is a Front-End Developer with more than 10 years of experience working with the web and the many versions of ECMAScript. Also an avid open source user and contributor.</p>",
-        "role": "Senior Front-End Developer at AppDirect",
+        "role": "Senior Front-End Developer at Upgrade",
         "room" : "206AB",
         "klass": "fea"
       },
