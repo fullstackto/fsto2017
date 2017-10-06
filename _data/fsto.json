@@ -94,6 +94,18 @@
         "room" : "206AB",
         "klass": "full"
       },
+      {
+        "key" : "google",
+        "title": "Lunch & Learn - UX Engineering @ Google",
+        "speaker": "Munish Dabas and Dirk Gigander",
+        "keywords" : "Prototyping, Design, UX",
+        "about" : "<p>'UX Engineering’ is relatively nascent and often misunderstood in our industry, but it is crucial to the product design lifecycle. Learn how this discipline operates at Google, its history and impact there, and find out if your passions and interests make you an ideal fit for this unique skillset.</p>",
+        "bio" : "<p><strong>Dirk Ginader</strong> - Dirk has been building websites for 20 years. He built high performing production websites and applications at scale first for an agency in Germany then later for Yahoo in the UK and the US until he joined Google in 2013 as one of its first UX Engineers. He’s passionate about making Google’s many different products a delightful experience for everyone by closely collaborating with designers, researchers, engineers and last but not least the accessibility team.</p>
+        <p><strong>Munish Dabas</strong> - A UX Engineer at Google, Munish applies his user-centric iterative design approach to lead prototyping efforts across Google Maps. Prior to Google he was a product design lead at Amazon, a lead technologist at Sports Illustrated Digital where his work garnered awards from the FWA and AdAge, and an interactive developer at award-winning digital agency and product design firm Fantasy.</p>",
+        "role": "UX Engineers at Google",
+        "room" : "206AB",
+        "klass": "full"
+      }
     ],
     "1:00-1:45" : [
       {
@@ -353,6 +365,18 @@
         "room" : "206CD",
         "klass": "full"
       },
+      {
+        "key" : "google",
+        "title": "Lunch & Learn - UX Engineering @ Google",
+        "speaker": "Munish Dabas and Dirk Gigander",
+        "keywords" : "Prototyping, Design, UX",
+        "about" : "<p>'UX Engineering’ is relatively nascent and often misunderstood in our industry, but it is crucial to the product design lifecycle. Learn how this discipline operates at Google, its history and impact there, and find out if your passions and interests make you an ideal fit for this unique skillset.</p>",
+        "bio" : "<p><strong>Dirk Ginader</strong> - Dirk has been building websites for 20 years. He built high performing production websites and applications at scale first for an agency in Germany then later for Yahoo in the UK and the US until he joined Google in 2013 as one of its first UX Engineers. He’s passionate about making Google’s many different products a delightful experience for everyone by closely collaborating with designers, researchers, engineers and last but not least the accessibility team.</p>
+        <p><strong>Munish Dabas</strong> - A UX Engineer at Google, Munish applies his user-centric iterative design approach to lead prototyping efforts across Google Maps. Prior to Google he was a product design lead at Amazon, a lead technologist at Sports Illustrated Digital where his work garnered awards from the FWA and AdAge, and an interactive developer at award-winning digital agency and product design firm Fantasy.</p>",
+        "role": "UX Engineers at Google",
+        "room" : "206AB",
+        "klass": "full"
+      }
     ],
     "1:00-1:45" : [
       {
