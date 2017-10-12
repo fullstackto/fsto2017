@@ -288,12 +288,12 @@ In this session, we’ll walk through a DevOps scenario for node developers. We�
     "10:30-11:15" : [
       {
         "key" : "kristina",
-        "title": "Tackling Technical Debt",
+        "title": "#noobsec: The Web Security Fundamentals Every Developer Should Know.",
         "speaker": "Kristina Balaam",
-        "keywords" : "#noobsec: the web security fundamentals every developer should know.",
+        "keywords" : "web security, computer security, application security",
         "about" : "<p>As developers, we understand the importance of writing scalable, quality code. However, there isn’t always a lot of focus on protecting the applications we build and the data we collect. We’ll discuss the fundamentals of web application security, walk through examples of how to write more secure code and explore how to easily pen-test your existing applications for vulnerabilities.</p>",
         "bio" : "<p>Kristina is an Application Security Engineer with Shopify. She builds web and mobile security tools and helps discover vulnerabilities in the existing platform. Prior to Shopify, Kristina led a team of developers building web and mobile applications for enterprise and start-up clients. Kristina graduated with a Bachelor of Computer Science from McGill University in 2012. She volunteers with DEFCON Toronto, founded the Women in Tech Toronto book club and has a serious computer textbook hoarding problem.</p>",
-        "role": "Software Engineer at Shopify",
+        "role": "Application Security Engineer at Shopify",
         "room" : "206AB",
         "klass": "fea"
       },
