@@ -180,13 +180,13 @@ In this session, we’ll walk through a DevOps scenario for node developers. We�
     ],
     "3:00-3:45" : [
       {
-        "key" : "june",
-        "title": "What Rocky Horror taught me about Shadow DOM",
-        "speaker": "Juniper Belmont",
-        "keywords" : "Shadow DOM, CSS, Code Patterns",
-        "about" : "<p>When I was fifteen I put on an excessive amount of makeup, punk clothes, and bravado to lip sync a song about a sultry space alien intent on making the world fabulous. Then I took off the costume and resumed being a regular Star Wars and computer science nerd. Shadow DOM, too, is about setting up a façade to contain style and content that doesn’t leak out into the rest of the world. This talk will show you how Shadow DOM can be used today to turn hairy HTML and CSS into scoped pieces that can be styled and composed naturally.</p>",
-        "bio" : "<p>Juniper Belmont is a genderqueer developer advocate passionate about the open web platform. They love meeting people, talking about their passions, and giving presentations interspersed with bawdy jokes and lavish, mostly true stories. They use they/them pronouns and they can be found @juniperbelmont</p>",
-        "role" : "Developer Advocate at Vaadin",
+        "key" : "tba",
+        "title": "tba",
+        "speaker": "tba",
+        "keywords" : "tba",
+        "about" : "<p>tba</p>",
+        "bio" : "<p>Jtba</p>",
+        "role" : "tba",
         "room" : "206AB",
         "klass": "fec"
       },
