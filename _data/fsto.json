@@ -22,7 +22,7 @@
         "about" : "<p>Vue.js is considered component driven, extensible, approachable, and performant view library. Whether you’re a web dev without the frameworks or have been deep in development with Angular, Ember, or React, Vue has a something for you. In this presentation, we will go over the Vue fundamentals, dive into state management, data fetching with Vue, and then wrap up with building your application for production. Let's get started building and delivering products using Vue.</p>",
         "bio" : "<p>Tirell Mckinnon is a software engineer at Skookum located in Charlotte, NC. Tirell has a background in computer science,  frontend development has always been his passion. Tirell has always had a curiosity of deeply understanding software, he loves solving problems and exploring new technologies. He is a family man, avid learner, hobbyist mountain biker, and a member of the Army National Guard. </p>",
         "role": "Software Engineer at Skookum",
-        "room" : "200C",
+        "room" : "206AB",
         "klass": "fec"
       },
       {
@@ -104,7 +104,7 @@ In this session, we’ll walk through a DevOps scenario for node developers. We�
         "bio" : "<p><strong>Munish Dabas</strong> - A UX Engineer at Google, Munish applies his user-centric iterative design approach to lead prototyping efforts across Google Maps. Prior to Google he was a product design lead at Amazon, a lead technologist at Sports Illustrated Digital where his work garnered awards from the FWA and AdAge, and an interactive developer at award-winning digital agency and product design firm Fantasy.</p><p><strong>Dirk Ginader</strong> - Dirk has been building websites for 20 years. He built high performing production websites and applications at scale first for an agency in Germany then later for Yahoo in the UK and the US until he joined Google in 2013 as one of its first UX Engineers. He’s passionate about making Google’s many different products a delightful experience for everyone by closely collaborating with designers, researchers, engineers and last but not least the accessibility team.</p>
         ",
         "role": "UX Engineers at Google",
-        "room" : "206AB",
+        "room" : "206CD",
         "klass": "full"
       }
     ],
@@ -375,7 +375,7 @@ In this session, we’ll walk through a DevOps scenario for node developers. We�
         "bio" : "<p><strong>Munish Dabas</strong> - A UX Engineer at Google, Munish applies his user-centric iterative design approach to lead prototyping efforts across Google Maps. Prior to Google he was a product design lead at Amazon, a lead technologist at Sports Illustrated Digital where his work garnered awards from the FWA and AdAge, and an interactive developer at award-winning digital agency and product design firm Fantasy.</p><p><strong>Dirk Ginader</strong> - Dirk has been building websites for 20 years. He built high performing production websites and applications at scale first for an agency in Germany then later for Yahoo in the UK and the US until he joined Google in 2013 as one of its first UX Engineers. He’s passionate about making Google’s many different products a delightful experience for everyone by closely collaborating with designers, researchers, engineers and last but not least the accessibility team.</p>
         ",
         "role": "UX Engineers at Google",
-        "room" : "206AB",
+        "room" : "206CD",
         "klass": "full"
       }
     ],
@@ -445,7 +445,7 @@ In this session, we’ll walk through a DevOps scenario for node developers. We�
         "about" : "<p>There are more than 170,000 households on the waiting list for subsidized housing in the City of Toronto. Location isn't the primary search function, yet the website for Toronto Community Housing and the open data don't address some of the most crucial pieces of information needed for people to find housing: size of the unit (i.e., number of bedrooms) and speciality (i.e., accessibility or seniors residence). This talk shows the shortfalls of both of these sources and shows how I turned both of these on their heads, and was able to present this data on a nicely designed, accessible and mobile friendly front-end, all while making the data available through an API, using scraped and mock data in a week as a student. Think of how much money the City of Toronto could save and how much better the search for subsidized housing could be?</p>",
         "bio" : "<p>Shanta is an Instructor in Web Design at Sheridan College and a recent graduate from BrainStation Toronto in their Full Time Web Development program as a Full Stack Web Developer. She has a passion for Open Data and coding for the greater good.</p>",
         "role": "Instructor at Sheridan College",
-        "room" : "200c",
+        "room" : "200C",
         "klass": "bec"
       }
     ],
@@ -469,7 +469,7 @@ In this session, we’ll walk through a DevOps scenario for node developers. We�
         "about" : "  <p>One of the more interesting features of the latest release of the Java platform is undoubtedly JShell, Java’s Read-Eval-Print-Loop implementation, which makes prototyping faster and easier. The release, however, packs many other smaller and less-known features and APIs. In this session, you will learn how to effectively work with JShell, and discover features of Java 9 with its help.</p>",
         "bio" : "<p>Miro is a senior software engineer at DNAstack, where he develops a leading genomics cloud platform. He is a Java enthusiast with expertise in distributed systems and middleware, and the creator of the largest search and discovery engine of human genomic data. In his spare time, he blogs and contributes to several open-source projects.</p>",
         "role": "Senior Software Engineer at DNAstack",
-        "room" : "206AB",
+        "room" : "206CD",
         "klass": "bec"
       },
       {
