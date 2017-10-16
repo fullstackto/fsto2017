@@ -163,6 +163,7 @@ In this session, we’ll walk through a DevOps scenario for node developers. We�
         "keywords" : "Databases, Performance, SQL",
         "about" : "<p>A search engine is not a database. Search systems are optimized for fast search using an internal data structure called an inverted index. Databases have a similar feature to allow quick access, also called an index, but it’s a totally different thing!</p><p>In this talk, Toria Gibbs will take you on a tour of the internals of a search index, comparing it to common implementations of indexing in relational databases. We’ll see how search engines can outperform databases and discuss the tradeoffs in implementing and maintaining such a system. No prior knowledge of database or search index implementations required; experience creating or querying database tables will be helpful.</p>",
         "bio" : "<p>Toria Gibbs is a Senior Software Engineer working on Search Infrastructure at Etsy. She's interested in infrastructure development, distributed systems, and information retrieval (including databases and search systems). Toria holds a computer science degree from the University of Waterloo. In her spare time, Toria bakes desserts for her blog and plays flag football.</p>",
+        "role": "",
         "room" : "206CD",
         "klass": "bec"
       },
@@ -185,8 +186,8 @@ In this session, we’ll walk through a DevOps scenario for node developers. We�
         "speaker": "Rohan Nair",
         "keywords" : "React, GraphQL, Elixr",
         "about" : "<p>Over the past few months, a competitor and spiritual successor to Ruby on Rails has emerged, in Elixir, using the Phoenix framework. At the same time, Facebook has released a successor to REST - GraphQL. Using the Absinthe library, let's build a GraphQL server in Elixir/Phoenix, and hook it up to a simple React app. The audience will learn about the basics of Elixir/Phoenix, the basics of GraphQL, and how to hook that up to a client-side Application.</p>",
-        "bio" : "<p>Rohan is founder and CTO of ObjectiveIQ where he has React, GraphQL, Node and Elixir in production. Previously he has been Architect & Development Lead at Terapeak, Well.ca, and Roadpost. He is often found on TorontoJS helping with Webpack issues. Outside of code, Rohan is a history aficionado, beer drinker, and chocolate chip cookie critique.</p>",
-        "role" : "CTO at ObjectiveIQ",
+        "bio" : "<p>Rohan is a polyglot developer, architect and experienced technology leader with over a decade of experience with Javascript. He is currently the Head of Engineering at Pungle Payments, building a real-time payments platform with Elixir, Node and React. Outside of code, Rohan is a history aficionado, beer drinker, and chocolate chip cookie critic.</p>",
+        "role" : "Head of Engineering at Pungle Payments",
         "room" : "206AB",
         "klass": "fec"
       },
