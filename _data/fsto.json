@@ -180,13 +180,13 @@ In this session, weâ€™ll walk through a DevOps scenario for node developers. Weâ
     ],
     "3:00-3:45" : [
       {
-        "key" : "tba",
-        "title": "tba",
-        "speaker": "tba",
-        "keywords" : "tba",
-        "about" : "<p>tba</p>",
-        "bio" : "<p>Jtba</p>",
-        "role" : "tba",
+        "key" : "rohan",
+        "title": "React + GraphQL + Elixir/Phoenix",
+        "speaker": "Rohan Nair",
+        "keywords" : "React, GraphQL, Elixr",
+        "about" : "<p>Over the past few months, a competitor and spiritual successor to Ruby on Rails has emerged, in Elixir, using the Phoenix framework. At the same time, Facebook has released a successor to REST - GraphQL. Using the Absinthe library, let's build a GraphQL server in Elixir/Phoenix, and hook it up to a simple React app. The audience will learn about the basics of Elixir/Phoenix, the basics of GraphQL, and how to hook that up to a client-side Application.</p>",
+        "bio" : "<p>Rohan is founder and CTO of ObjectiveIQ where he has React, GraphQL, Node and Elixir in production. Previously he has been Architect & Development Lead at Terapeak, Well.ca, and Roadpost. He is often found on TorontoJS helping with Webpack issues. Outside of code, Rohan is a history aficionado, beer drinker, and chocolate chip cookie critique.</p>",
+        "role" : "CTO at ObjectiveIQ",
         "room" : "206AB",
         "klass": "fec"
       },
