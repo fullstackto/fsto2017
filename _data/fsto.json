@@ -163,7 +163,7 @@ In this session, we’ll walk through a DevOps scenario for node developers. We�
         "keywords" : "Databases, Performance, SQL",
         "about" : "<p>A search engine is not a database. Search systems are optimized for fast search using an internal data structure called an inverted index. Databases have a similar feature to allow quick access, also called an index, but it’s a totally different thing!</p><p>In this talk, Toria Gibbs will take you on a tour of the internals of a search index, comparing it to common implementations of indexing in relational databases. We’ll see how search engines can outperform databases and discuss the tradeoffs in implementing and maintaining such a system. No prior knowledge of database or search index implementations required; experience creating or querying database tables will be helpful.</p>",
         "bio" : "<p>Toria Gibbs is a Senior Software Engineer working on Search Infrastructure at Etsy. She's interested in infrastructure development, distributed systems, and information retrieval (including databases and search systems). Toria holds a computer science degree from the University of Waterloo. In her spare time, Toria bakes desserts for her blog and plays flag football.</p>",
-        "role": "",
+        "role": "Senior Software Engineer at Etsy",
         "room" : "206CD",
         "klass": "bec"
       },
@@ -341,6 +341,7 @@ In this session, we’ll walk through a DevOps scenario for node developers. We�
         "about" : "<p>If you’ve implemented API endpoints or consumed APIs it may bug you that every API seems to be different. What if there was a universal standard that made sense? Enter JSON:API, a standard for creating self explaining JSON APIs. Clients built around JSON:API can efficiently cache responses, sometimes eliminating network requests entirely. This session will teach you how you can get started with JSON:API</p>",
         "bio" : "<p>Chris is a Developer Advocate at Nexmo where he helps developers use their global communications platform. He co-organizes the Baltimore Hackathon, Baltimore’s Google Developer Group, and teaches classes at Betamore.</p>",
         "room" : "206CD",
+        "role": "Developer Advocate at Nexmo",
         "klass": "bea"
       },
       {
@@ -494,6 +495,7 @@ In this session, we’ll walk through a DevOps scenario for node developers. We�
         "about" : "<p>'Our chief want in life is somebody who will make us do what we can.' — Ralph Waldo Emerson<br /> In tech, we are often left to our own devices to self learn and grow through our own sheer will. We often forget that there are people out there willing and anxious to help pull us to the next rung of our careers. Marissa Lerer, CTO of Compose[d] and mentorship junkie will lead in a discussion about mentorship, leadership and how to effectively give and receive both. </p>",
         "bio" : "<p>Marissa Lerer is a technologist, musician, cake decorator and mom. She received a BS in Music Education and an MA in Graphic Communications, Management and Technology from NYU. She is currently managing a team of developers, as CTO at COMPOSE[D], a digital creative and development agency in New York. Marissa prides herself on being a “cool nerd” who likes to get her hands in everything. She is also an accomplished singer/songwriter who has released three albums. She has also participated in the 2012 StartupBus and was on the winning team of the 2012 International Space Apps Challenge. She is passionate about mentorship, especially for women in tech. In addition to teaching programming at the School of Visual Arts she is also a regular panelist at Pace Path Live and recently mentored Girl Scouts at a SXSW event sponsored by Twitter and Dove. Last year she was the keynote speaker at Full Stack Toronto.</p>",
         "room" : "206ABCD",
+        "role" : "CTO at Compose[d]",
         "klass": "full"
       }
     ]
