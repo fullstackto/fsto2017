@@ -464,11 +464,11 @@ In this session, we’ll walk through a DevOps scenario for node developers. We�
         "klass": "fec"
       },
       {
-        "key" : "miroslav",
+        "key" : "miro",
         "title": "Effective prototyping with Java 9",
-        "speaker": "Miroslav Cupak",
+        "speaker": "Miro Cupak",
         "keywords" : "Java",
-        "about" : "  <p>One of the more interesting features of the latest release of the Java platform is undoubtedly JShell, Java’s Read-Eval-Print-Loop implementation, which makes prototyping faster and easier. The release, however, packs many other smaller and less-known features and APIs. In this session, you will learn how to effectively work with JShell, and discover features of Java 9 with its help.</p>",
+        "about" : "<p>One of the more interesting features of the recent release of Java is undoubtedly JShell, Java’s implementation of REPL, which makes prototyping and API exploration faster and easier. The release, however, packs many incredibly useful smaller and less-known features, such as convenience factory methods for collections, process handles, stackwalker, or HTTP/2 client.</p><p>This session is for Java developers. You will learn how to effectively work with JShell, and discover several new APIs in Java 9 with its help.</p>",
         "bio" : "<p>Miro is a senior software engineer at DNAstack, where he develops a leading genomics cloud platform. He is a Java enthusiast with expertise in distributed systems and middleware, and the creator of the largest search and discovery engine of human genomic data. In his spare time, he blogs and contributes to several open-source projects.</p>",
         "role": "Senior Software Engineer at DNAstack",
         "room" : "206CD",
